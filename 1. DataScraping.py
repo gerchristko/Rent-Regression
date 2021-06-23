@@ -13,7 +13,7 @@ def main():
 
 
 def collect_apartments(apartments, soup):
-    # function to retrieve subjects
+    # function to retrieve pages
     layer = soup.find_all('a')
     links = []
     for i in layer:
@@ -30,7 +30,7 @@ def collect_apartments(apartments, soup):
     for n in rents:
         if re.findall(pattern, n):
             apartments.append(n)
-    # function to retrieve subjects
+    # function to retrieve pages
 
 def data_scrape(apartments, index, writer):
     # function for data collecting

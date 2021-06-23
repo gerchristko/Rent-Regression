@@ -1,0 +1,796 @@
+Address,Suburb,Code,State,Rent,Bond,Agent,Bedroom,Bathroom,Parking,Heating,Air Conditioning,Balcony,Dishwasher,Gym,Distance (km) to closest public school,Neighbourhood Largest Demographics
+8/99 Melbourne Road,Williamstown,3016,VIC,280,1217,Sweeney Estate Agents Williamstown,1,1,1,0,1,0,0,0,0.3,40-59
+210/445 Royal  Parade,Parkville,3052,VIC,310,1347,Buxton Stonnington,1,1,1,0,0,0,0,0,0.6,20-39
+16/3-5 Alvena  Street,Mentone,3194,VIC,420,2100,Hodges Real Estate Sandringham,2,2,1,1,0,0,0,0,0.8,40-59
+4/126 Albion Street,Brunswick,3056,VIC,450,2405,Jellis Craig - Brunswick,2,1,1,1,0,0,1,0,0.8,20-39
+1201/582 St Kilda  Road Melbourne,3004,3004,VIC,995,5970,Think Property & Co,3,2,1,0,0,0,1,1,nan,20-39
+65/39 Rathdowne Street,Carlton,3053,VIC,700,3742,Jellis Craig - Brunswick,3,1,1,0,0,0,0,0,0.5,20-39
+810/32 Bray Street South,Yarra,3141,VIC,280,1217,Dingle Partners,1,1,1,1,1,0,1,0,0.9,20-39
+4/25 Chadstone Road Malvern,East,3145,VIC,440,1912,Ray White Oakleigh,2,1,1,1,1,0,0,0,0.5,40-59
+310/1228 Nepean  Highway,Cheltenham,3192,VIC,440,2200,Hodges Real Estate Sandringham,2,2,1,1,1,0,1,0,0.4,20-39
+14/30 Lansell Road,Toorak,3142,VIC,795,4770,Marshall White Stonnington,2,2,2,0,0,0,0,0,1.1,60+
+101/59 Stawell Street,Richmond,3121,VIC,450,1955, Jellis Craig & Company Pty Ltd,2,1,1,0,0,0,0,0,0.4,20-39
+M01/10 Station Street Caulfield,North,3161,VIC,500,2172,Ray White Oakleigh,2,1,1,0,1,0,1,0,0.6,20-39
+9/45a Ormond Esplanade,Elwood,3184,VIC,470,2350,Biggin Scott St Kilda / Elwood,2,1,1,1,1,0,0,0,0.5,40-59
+1/1312 Dandenong Road,Hughesdale,3166,VIC,490,2130,Ray White Oakleigh,2,2,1,0,1,0,0,0,0.7,20-39
+7/13A Lewisham Road,Prahran,3181,VIC,410,1782,Buxton Stonnington,2,1,1,0,0,0,0,0,0.3,20-39
+11/118-124 Melville  Road Brunswick,West,3055,VIC,350,1521,Jellis Craig - Brunswick,1,1,1,1,0,0,1,0,0.5,20-39
+D302/460 Victoria  Street,Brunswick,3056,VIC,360,1924,Jellis Craig - Brunswick,1,1,1,1,0,0,1,0,0.1,20-39
+24/233 Canterbury Road St Kilda,West,3182,VIC,320,1390,Biggin Scott St Kilda / Elwood,1,1,1,0,0,0,0,0,0.2,20-39
+413/57 Bay Street Port,Melbourne,3207,VIC,560,2433,Biggin & Scott Port Melbourne,2,1,1,1,1,0,1,1,0.5,20-39
+201/392 St Georges  Road Fitzroy,North,3068,VIC,480,2566,Jellis Craig - Brunswick,2,1,1,0,1,0,0,0,0.2,20-39
+805/83 Queens Road Melbourne,3004,3004,VIC,650,2825,Besser & Co. Estate Agents,2,1,2,0,0,0,0,1,0.5,20-39
+208/445 Royal  Parade,Parkville,3052,VIC,400,2138,Jellis Craig - Brunswick,1,1,1,0,0,0,1,0,0.6,20-39
+14/581 Orrong Road,Armadale,3143,VIC,400,1738,Buxton Stonnington,2,1,1,1,1,0,1,0,0.6,20-39
+8/123 Beaconsfield Parade Albert,Park,3206,VIC,830,5410, Jellis Craig & Company Pty Ltd,2,2,0,0,0,0,0,0,0.6,40-59
+nan,nan,nan,nan,515,3090,Dingle Partners,2,1,0,0,0,0,0,0,0.8,20-39
+2/57 Harold  Street,Thornbury,3071,VIC,390,2085,Jellis Craig - Brunswick,2,1,1,1,1,0,0,0,0.2,20-39
+18/20 Cardigan Street St,Kilda,3182,VIC,320,1390,Biggin Scott St Kilda / Elwood,1,1,1,0,1,0,1,0,1.1,20-39
+4/13 Passfield Street Brunswick,West,3055,VIC,270,1173,Jellis Craig - Brunswick,1,1,0,1,0,0,0,0,0.4,20-39
+nan,nan,nan,nan,550,nan,Peter Blair Property Management,2,1,1,1,1,0,1,0,nan,40-59
+nan,nan,nan,nan,420,2100,Biggin Scott St Kilda / Elwood,2,1,0,0,0,0,0,0,nan,20-39
+1/4-6 Mallawa Street Clayton,South,3169,VIC,360,1564,Ray White Oakleigh,2,1,1,1,0,0,0,0,nan,20-39
+206/58 Latrobe St,Melbourne,3000,VIC,275,1195,Dingle Partners,1,1,0,1,0,0,0,0,0.7,20-39
+714/7 Claremont Street South,Yarra,3141,VIC,380,1651,Buxton Stonnington,1,1,1,0,0,0,0,0,1.5,20-39
+209/436-442 Huntingdale Road Mount,Waverley,3149,VIC,340,1477,Buxton Oakleigh,1,1,1,1,0,0,1,0,0.7,20-39
+2/17 Rosemary Street,Chadstone,3148,VIC,420,1825,Ray White Oakleigh,3,1,1,0,1,0,0,0,0.9,Under 20
+110/19-21 Hanover Street,Oakleigh,3166,VIC,355,1543,Buxton Oakleigh,1,1,1,1,0,0,1,0,0.8,20-39
+1/30 Lillimur  Road,Ormond,3204,VIC,450,1955,Buxton Oakleigh,2,1,1,1,1,0,1,0,0.9,20-39
+1210/3-5 St Kilda Road St,Kilda,3182,VIC,585,2925,Biggin Scott St Kilda / Elwood,2,1,1,0,0,0,1,0,1.1,20-39
+10/11A Milton Street,Elwood,3184,VIC,440,2200,Biggin Scott St Kilda / Elwood,2,1,1,0,0,0,0,0,0.6,20-39
+4/10 Coonil Street Oakleigh,South,3167,VIC,400,1739,Ray White Oakleigh,2,1,1,0,1,0,1,0,0.3,20-39
+309/101 Bay Street Port,Melbourne,3207,VIC,590,3154,Home AU Real Estate,2,2,1,0,0,0,0,0,0.5,20-39
+11/233 Dandenong Road,Prahran,3181,VIC,350,1521,Biggin & Scott Stonnington,1,1,1,0,0,0,0,0,0.3,20-39
+210/445 Royal  Parade,Parkville,3052,VIC,310,1347,Buxton Stonnington,1,1,1,0,0,0,0,0,0.6,20-39
+16/3-5 Alvena  Street,Mentone,3194,VIC,420,2100,Hodges Real Estate Sandringham,2,2,1,1,0,0,0,0,0.8,40-59
+4/126 Albion Street,Brunswick,3056,VIC,450,2405,Jellis Craig - Brunswick,2,1,1,1,0,0,1,0,0.8,20-39
+1201/582 St Kilda  Road Melbourne,3004,3004,VIC,995,5970,Think Property & Co,3,2,1,0,0,0,1,1,nan,20-39
+65/39 Rathdowne Street,Carlton,3053,VIC,700,3742,Jellis Craig - Brunswick,3,1,1,0,0,0,0,0,0.5,20-39
+810/32 Bray Street South,Yarra,3141,VIC,280,1217,Dingle Partners,1,1,1,1,1,0,1,0,0.9,20-39
+4/25 Chadstone Road Malvern,East,3145,VIC,440,1912,Ray White Oakleigh,2,1,1,1,1,0,0,0,0.5,40-59
+310/1228 Nepean  Highway,Cheltenham,3192,VIC,440,2200,Hodges Real Estate Sandringham,2,2,1,1,1,0,1,0,0.4,20-39
+14/30 Lansell Road,Toorak,3142,VIC,795,4770,Marshall White Stonnington,2,2,2,0,0,0,0,0,1.1,60+
+101/59 Stawell Street,Richmond,3121,VIC,450,1955, Jellis Craig & Company Pty Ltd,2,1,1,0,0,0,0,0,0.4,20-39
+M01/10 Station Street Caulfield,North,3161,VIC,500,2172,Ray White Oakleigh,2,1,1,0,1,0,1,0,0.6,20-39
+9/45a Ormond Esplanade,Elwood,3184,VIC,470,2350,Biggin Scott St Kilda / Elwood,2,1,1,1,1,0,0,0,0.5,40-59
+1/1312 Dandenong Road,Hughesdale,3166,VIC,490,2130,Ray White Oakleigh,2,2,1,0,1,0,0,0,0.7,20-39
+7/13A Lewisham Road,Prahran,3181,VIC,410,1782,Buxton Stonnington,2,1,1,0,0,0,0,0,0.3,20-39
+11/118-124 Melville  Road Brunswick,West,3055,VIC,350,1521,Jellis Craig - Brunswick,1,1,1,1,0,0,1,0,0.5,20-39
+D302/460 Victoria  Street,Brunswick,3056,VIC,360,1924,Jellis Craig - Brunswick,1,1,1,1,0,0,1,0,0.1,20-39
+24/233 Canterbury Road St Kilda,West,3182,VIC,320,1390,Biggin Scott St Kilda / Elwood,1,1,1,0,0,0,0,0,0.2,20-39
+413/57 Bay Street Port,Melbourne,3207,VIC,560,2433,Biggin & Scott Port Melbourne,2,1,1,1,1,0,1,1,0.5,20-39
+201/392 St Georges  Road Fitzroy,North,3068,VIC,480,2566,Jellis Craig - Brunswick,2,1,1,0,1,0,0,0,0.2,20-39
+805/83 Queens Road Melbourne,3004,3004,VIC,650,2825,Besser & Co. Estate Agents,2,1,2,0,0,0,0,1,0.5,20-39
+208/445 Royal  Parade,Parkville,3052,VIC,400,2138,Jellis Craig - Brunswick,1,1,1,0,0,0,1,0,0.6,20-39
+14/581 Orrong Road,Armadale,3143,VIC,400,1738,Buxton Stonnington,2,1,1,1,1,0,1,0,0.6,20-39
+8/123 Beaconsfield Parade Albert,Park,3206,VIC,830,5410, Jellis Craig & Company Pty Ltd,2,2,0,0,0,0,0,0,0.6,40-59
+nan,nan,nan,nan,515,3090,Dingle Partners,2,1,0,0,0,0,0,0,0.8,20-39
+2/57 Harold  Street,Thornbury,3071,VIC,390,2085,Jellis Craig - Brunswick,2,1,1,1,1,0,0,0,0.2,20-39
+18/20 Cardigan Street St,Kilda,3182,VIC,320,1390,Biggin Scott St Kilda / Elwood,1,1,1,0,1,0,1,0,1.1,20-39
+4/13 Passfield Street Brunswick,West,3055,VIC,270,1173,Jellis Craig - Brunswick,1,1,0,1,0,0,0,0,0.4,20-39
+nan,nan,nan,nan,550,nan,Peter Blair Property Management,2,1,1,1,1,0,1,0,nan,40-59
+nan,nan,nan,nan,420,2100,Biggin Scott St Kilda / Elwood,2,1,0,0,0,0,0,0,nan,20-39
+1/4-6 Mallawa Street Clayton,South,3169,VIC,360,1564,Ray White Oakleigh,2,1,1,1,0,0,0,0,nan,20-39
+206/58 Latrobe St,Melbourne,3000,VIC,275,1195,Dingle Partners,1,1,0,1,0,0,0,0,0.7,20-39
+714/7 Claremont Street South,Yarra,3141,VIC,380,1651,Buxton Stonnington,1,1,1,0,0,0,0,0,1.5,20-39
+209/436-442 Huntingdale Road Mount,Waverley,3149,VIC,340,1477,Buxton Oakleigh,1,1,1,1,0,0,1,0,0.7,20-39
+2/17 Rosemary Street,Chadstone,3148,VIC,420,1825,Ray White Oakleigh,3,1,1,0,1,0,0,0,0.9,Under 20
+110/19-21 Hanover Street,Oakleigh,3166,VIC,355,1543,Buxton Oakleigh,1,1,1,1,0,0,1,0,0.8,20-39
+1/30 Lillimur  Road,Ormond,3204,VIC,450,1955,Buxton Oakleigh,2,1,1,1,1,0,1,0,0.9,20-39
+1210/3-5 St Kilda Road St,Kilda,3182,VIC,585,2925,Biggin Scott St Kilda / Elwood,2,1,1,0,0,0,1,0,1.1,20-39
+10/11A Milton Street,Elwood,3184,VIC,440,2200,Biggin Scott St Kilda / Elwood,2,1,1,0,0,0,0,0,0.6,20-39
+4/10 Coonil Street Oakleigh,South,3167,VIC,400,1739,Ray White Oakleigh,2,1,1,0,1,0,1,0,0.3,20-39
+309/101 Bay Street Port,Melbourne,3207,VIC,590,3154,Home AU Real Estate,2,2,1,0,0,0,0,0,0.5,20-39
+702/568 St Kilda Road Melbourne,3004,3004,VIC,495,2970,Hodges South Melbourne,2,2,1,1,1,0,0,0,0.9,20-39
+210/445 Royal  Parade,Parkville,3052,VIC,310,1347,Buxton Stonnington,1,1,1,0,0,0,0,0,0.6,20-39
+16/3-5 Alvena  Street,Mentone,3194,VIC,420,2100,Hodges Real Estate Sandringham,2,2,1,1,0,0,0,0,0.8,40-59
+4/126 Albion Street,Brunswick,3056,VIC,450,2405,Jellis Craig - Brunswick,2,1,1,1,0,0,1,0,0.8,20-39
+1201/582 St Kilda  Road Melbourne,3004,3004,VIC,995,5970,Think Property & Co,3,2,1,0,0,0,1,1,nan,20-39
+65/39 Rathdowne Street,Carlton,3053,VIC,700,3742,Jellis Craig - Brunswick,3,1,1,0,0,0,0,0,0.5,20-39
+810/32 Bray Street South,Yarra,3141,VIC,280,1217,Dingle Partners,1,1,1,1,1,0,1,0,0.9,20-39
+4/25 Chadstone Road Malvern,East,3145,VIC,440,1912,Ray White Oakleigh,2,1,1,1,1,0,0,0,0.5,40-59
+310/1228 Nepean  Highway,Cheltenham,3192,VIC,440,2200,Hodges Real Estate Sandringham,2,2,1,1,1,0,1,0,0.4,20-39
+14/30 Lansell Road,Toorak,3142,VIC,795,4770,Marshall White Stonnington,2,2,2,0,0,0,0,0,1.1,60+
+101/59 Stawell Street,Richmond,3121,VIC,450,1955, Jellis Craig & Company Pty Ltd,2,1,1,0,0,0,0,0,0.4,20-39
+M01/10 Station Street Caulfield,North,3161,VIC,500,2172,Ray White Oakleigh,2,1,1,0,1,0,1,0,0.6,20-39
+9/45a Ormond Esplanade,Elwood,3184,VIC,470,2350,Biggin Scott St Kilda / Elwood,2,1,1,1,1,0,0,0,0.5,40-59
+1/1312 Dandenong Road,Hughesdale,3166,VIC,490,2130,Ray White Oakleigh,2,2,1,0,1,0,0,0,0.7,20-39
+7/13A Lewisham Road,Prahran,3181,VIC,410,1782,Buxton Stonnington,2,1,1,0,0,0,0,0,0.3,20-39
+11/118-124 Melville  Road Brunswick,West,3055,VIC,350,1521,Jellis Craig - Brunswick,1,1,1,1,0,0,1,0,0.5,20-39
+D302/460 Victoria  Street,Brunswick,3056,VIC,360,1924,Jellis Craig - Brunswick,1,1,1,1,0,0,1,0,0.1,20-39
+24/233 Canterbury Road St Kilda,West,3182,VIC,320,1390,Biggin Scott St Kilda / Elwood,1,1,1,0,0,0,0,0,0.2,20-39
+413/57 Bay Street Port,Melbourne,3207,VIC,560,2433,Biggin & Scott Port Melbourne,2,1,1,1,1,0,1,1,0.5,20-39
+201/392 St Georges  Road Fitzroy,North,3068,VIC,480,2566,Jellis Craig - Brunswick,2,1,1,0,1,0,0,0,0.2,20-39
+805/83 Queens Road Melbourne,3004,3004,VIC,650,2825,Besser & Co. Estate Agents,2,1,2,0,0,0,0,1,0.5,20-39
+208/445 Royal  Parade,Parkville,3052,VIC,400,2138,Jellis Craig - Brunswick,1,1,1,0,0,0,1,0,0.6,20-39
+14/581 Orrong Road,Armadale,3143,VIC,400,1738,Buxton Stonnington,2,1,1,1,1,0,1,0,0.6,20-39
+8/123 Beaconsfield Parade Albert,Park,3206,VIC,830,5410, Jellis Craig & Company Pty Ltd,2,2,0,0,0,0,0,0,0.6,40-59
+nan,nan,nan,nan,515,3090,Dingle Partners,2,1,0,0,0,0,0,0,0.8,20-39
+2/57 Harold  Street,Thornbury,3071,VIC,390,2085,Jellis Craig - Brunswick,2,1,1,1,1,0,0,0,0.2,20-39
+18/20 Cardigan Street St,Kilda,3182,VIC,320,1390,Biggin Scott St Kilda / Elwood,1,1,1,0,1,0,1,0,1.1,20-39
+4/13 Passfield Street Brunswick,West,3055,VIC,270,1173,Jellis Craig - Brunswick,1,1,0,1,0,0,0,0,0.4,20-39
+nan,nan,nan,nan,550,nan,Peter Blair Property Management,2,1,1,1,1,0,1,0,nan,40-59
+nan,nan,nan,nan,420,2100,Biggin Scott St Kilda / Elwood,2,1,0,0,0,0,0,0,nan,20-39
+1/4-6 Mallawa Street Clayton,South,3169,VIC,360,1564,Ray White Oakleigh,2,1,1,1,0,0,0,0,nan,20-39
+206/58 Latrobe St,Melbourne,3000,VIC,275,1195,Dingle Partners,1,1,0,1,0,0,0,0,0.7,20-39
+714/7 Claremont Street South,Yarra,3141,VIC,380,1651,Buxton Stonnington,1,1,1,0,0,0,0,0,1.5,20-39
+209/436-442 Huntingdale Road Mount,Waverley,3149,VIC,340,1477,Buxton Oakleigh,1,1,1,1,0,0,1,0,0.7,20-39
+2/17 Rosemary Street,Chadstone,3148,VIC,420,1825,Ray White Oakleigh,3,1,1,0,1,0,0,0,0.9,Under 20
+110/19-21 Hanover Street,Oakleigh,3166,VIC,355,1543,Buxton Oakleigh,1,1,1,1,0,0,1,0,0.8,20-39
+1/30 Lillimur  Road,Ormond,3204,VIC,450,1955,Buxton Oakleigh,2,1,1,1,1,0,1,0,0.9,20-39
+1210/3-5 St Kilda Road St,Kilda,3182,VIC,585,2925,Biggin Scott St Kilda / Elwood,2,1,1,0,0,0,1,0,1.1,20-39
+10/11A Milton Street,Elwood,3184,VIC,440,2200,Biggin Scott St Kilda / Elwood,2,1,1,0,0,0,0,0,0.6,20-39
+4/10 Coonil Street Oakleigh,South,3167,VIC,400,1739,Ray White Oakleigh,2,1,1,0,1,0,1,0,0.3,20-39
+309/101 Bay Street Port,Melbourne,3207,VIC,590,3154,Home AU Real Estate,2,2,1,0,0,0,0,0,0.5,20-39
+3/54 Yarra Street,Williamstown,3016,VIC,320,1390,Sweeney Estate Agents Williamstown,2,1,1,1,1,0,0,0,0.6,40-59
+210/445 Royal  Parade,Parkville,3052,VIC,310,1347,Buxton Stonnington,1,1,1,0,0,0,0,0,0.6,20-39
+16/3-5 Alvena  Street,Mentone,3194,VIC,420,2100,Hodges Real Estate Sandringham,2,2,1,1,0,0,0,0,0.8,40-59
+4/126 Albion Street,Brunswick,3056,VIC,450,2405,Jellis Craig - Brunswick,2,1,1,1,0,0,1,0,0.8,20-39
+1201/582 St Kilda  Road Melbourne,3004,3004,VIC,995,5970,Think Property & Co,3,2,1,0,0,0,1,1,nan,20-39
+65/39 Rathdowne Street,Carlton,3053,VIC,700,3742,Jellis Craig - Brunswick,3,1,1,0,0,0,0,0,0.5,20-39
+810/32 Bray Street South,Yarra,3141,VIC,280,1217,Dingle Partners,1,1,1,1,1,0,1,0,0.9,20-39
+4/25 Chadstone Road Malvern,East,3145,VIC,440,1912,Ray White Oakleigh,2,1,1,1,1,0,0,0,0.5,40-59
+310/1228 Nepean  Highway,Cheltenham,3192,VIC,440,2200,Hodges Real Estate Sandringham,2,2,1,1,1,0,1,0,0.4,20-39
+14/30 Lansell Road,Toorak,3142,VIC,795,4770,Marshall White Stonnington,2,2,2,0,0,0,0,0,1.1,60+
+101/59 Stawell Street,Richmond,3121,VIC,450,1955, Jellis Craig & Company Pty Ltd,2,1,1,0,0,0,0,0,0.4,20-39
+M01/10 Station Street Caulfield,North,3161,VIC,500,2172,Ray White Oakleigh,2,1,1,0,1,0,1,0,0.6,20-39
+9/45a Ormond Esplanade,Elwood,3184,VIC,470,2350,Biggin Scott St Kilda / Elwood,2,1,1,1,1,0,0,0,0.5,40-59
+1/1312 Dandenong Road,Hughesdale,3166,VIC,490,2130,Ray White Oakleigh,2,2,1,0,1,0,0,0,0.7,20-39
+7/13A Lewisham Road,Prahran,3181,VIC,410,1782,Buxton Stonnington,2,1,1,0,0,0,0,0,0.3,20-39
+11/118-124 Melville  Road Brunswick,West,3055,VIC,350,1521,Jellis Craig - Brunswick,1,1,1,1,0,0,1,0,0.5,20-39
+D302/460 Victoria  Street,Brunswick,3056,VIC,360,1924,Jellis Craig - Brunswick,1,1,1,1,0,0,1,0,0.1,20-39
+24/233 Canterbury Road St Kilda,West,3182,VIC,320,1390,Biggin Scott St Kilda / Elwood,1,1,1,0,0,0,0,0,0.2,20-39
+413/57 Bay Street Port,Melbourne,3207,VIC,560,2433,Biggin & Scott Port Melbourne,2,1,1,1,1,0,1,1,0.5,20-39
+201/392 St Georges  Road Fitzroy,North,3068,VIC,480,2566,Jellis Craig - Brunswick,2,1,1,0,1,0,0,0,0.2,20-39
+805/83 Queens Road Melbourne,3004,3004,VIC,650,2825,Besser & Co. Estate Agents,2,1,2,0,0,0,0,1,0.5,20-39
+208/445 Royal  Parade,Parkville,3052,VIC,400,2138,Jellis Craig - Brunswick,1,1,1,0,0,0,1,0,0.6,20-39
+14/581 Orrong Road,Armadale,3143,VIC,400,1738,Buxton Stonnington,2,1,1,1,1,0,1,0,0.6,20-39
+8/123 Beaconsfield Parade Albert,Park,3206,VIC,830,5410, Jellis Craig & Company Pty Ltd,2,2,0,0,0,0,0,0,0.6,40-59
+nan,nan,nan,nan,515,3090,Dingle Partners,2,1,0,0,0,0,0,0,0.8,20-39
+2/57 Harold  Street,Thornbury,3071,VIC,390,2085,Jellis Craig - Brunswick,2,1,1,1,1,0,0,0,0.2,20-39
+18/20 Cardigan Street St,Kilda,3182,VIC,320,1390,Biggin Scott St Kilda / Elwood,1,1,1,0,1,0,1,0,1.1,20-39
+4/13 Passfield Street Brunswick,West,3055,VIC,270,1173,Jellis Craig - Brunswick,1,1,0,1,0,0,0,0,0.4,20-39
+nan,nan,nan,nan,550,nan,Peter Blair Property Management,2,1,1,1,1,0,1,0,nan,40-59
+nan,nan,nan,nan,420,2100,Biggin Scott St Kilda / Elwood,2,1,0,0,0,0,0,0,nan,20-39
+1/4-6 Mallawa Street Clayton,South,3169,VIC,360,1564,Ray White Oakleigh,2,1,1,1,0,0,0,0,nan,20-39
+206/58 Latrobe St,Melbourne,3000,VIC,275,1195,Dingle Partners,1,1,0,1,0,0,0,0,0.7,20-39
+714/7 Claremont Street South,Yarra,3141,VIC,380,1651,Buxton Stonnington,1,1,1,0,0,0,0,0,1.5,20-39
+209/436-442 Huntingdale Road Mount,Waverley,3149,VIC,340,1477,Buxton Oakleigh,1,1,1,1,0,0,1,0,0.7,20-39
+2/17 Rosemary Street,Chadstone,3148,VIC,420,1825,Ray White Oakleigh,3,1,1,0,1,0,0,0,0.9,Under 20
+110/19-21 Hanover Street,Oakleigh,3166,VIC,355,1543,Buxton Oakleigh,1,1,1,1,0,0,1,0,0.8,20-39
+1/30 Lillimur  Road,Ormond,3204,VIC,450,1955,Buxton Oakleigh,2,1,1,1,1,0,1,0,0.9,20-39
+1210/3-5 St Kilda Road St,Kilda,3182,VIC,585,2925,Biggin Scott St Kilda / Elwood,2,1,1,0,0,0,1,0,1.1,20-39
+10/11A Milton Street,Elwood,3184,VIC,440,2200,Biggin Scott St Kilda / Elwood,2,1,1,0,0,0,0,0,0.6,20-39
+4/10 Coonil Street Oakleigh,South,3167,VIC,400,1739,Ray White Oakleigh,2,1,1,0,1,0,1,0,0.3,20-39
+309/101 Bay Street Port,Melbourne,3207,VIC,590,3154,Home AU Real Estate,2,2,1,0,0,0,0,0,0.5,20-39
+210/445 Royal  Parade,Parkville,3052,VIC,310,1347,Buxton Stonnington,1,1,1,0,0,0,0,0,0.6,20-39
+16/3-5 Alvena  Street,Mentone,3194,VIC,420,2100,Hodges Real Estate Sandringham,2,2,1,1,0,0,0,0,0.8,40-59
+4/126 Albion Street,Brunswick,3056,VIC,450,2405,Jellis Craig - Brunswick,2,1,1,1,0,0,1,0,0.8,20-39
+1201/582 St Kilda  Road Melbourne,3004,3004,VIC,995,5970,Think Property & Co,3,2,1,0,0,0,1,1,nan,20-39
+65/39 Rathdowne Street,Carlton,3053,VIC,700,3742,Jellis Craig - Brunswick,3,1,1,0,0,0,0,0,0.5,20-39
+810/32 Bray Street South,Yarra,3141,VIC,280,1217,Dingle Partners,1,1,1,1,1,0,1,0,0.9,20-39
+4/25 Chadstone Road Malvern,East,3145,VIC,440,1912,Ray White Oakleigh,2,1,1,1,1,0,0,0,0.5,40-59
+310/1228 Nepean  Highway,Cheltenham,3192,VIC,440,2200,Hodges Real Estate Sandringham,2,2,1,1,1,0,1,0,0.4,20-39
+14/30 Lansell Road,Toorak,3142,VIC,795,4770,Marshall White Stonnington,2,2,2,0,0,0,0,0,1.1,60+
+101/59 Stawell Street,Richmond,3121,VIC,450,1955, Jellis Craig & Company Pty Ltd,2,1,1,0,0,0,0,0,0.4,20-39
+M01/10 Station Street Caulfield,North,3161,VIC,500,2172,Ray White Oakleigh,2,1,1,0,1,0,1,0,0.6,20-39
+9/45a Ormond Esplanade,Elwood,3184,VIC,470,2350,Biggin Scott St Kilda / Elwood,2,1,1,1,1,0,0,0,0.5,40-59
+1/1312 Dandenong Road,Hughesdale,3166,VIC,490,2130,Ray White Oakleigh,2,2,1,0,1,0,0,0,0.7,20-39
+7/13A Lewisham Road,Prahran,3181,VIC,410,1782,Buxton Stonnington,2,1,1,0,0,0,0,0,0.3,20-39
+11/118-124 Melville  Road Brunswick,West,3055,VIC,350,1521,Jellis Craig - Brunswick,1,1,1,1,0,0,1,0,0.5,20-39
+D302/460 Victoria  Street,Brunswick,3056,VIC,360,1924,Jellis Craig - Brunswick,1,1,1,1,0,0,1,0,0.1,20-39
+24/233 Canterbury Road St Kilda,West,3182,VIC,320,1390,Biggin Scott St Kilda / Elwood,1,1,1,0,0,0,0,0,0.2,20-39
+413/57 Bay Street Port,Melbourne,3207,VIC,560,2433,Biggin & Scott Port Melbourne,2,1,1,1,1,0,1,1,0.5,20-39
+201/392 St Georges  Road Fitzroy,North,3068,VIC,480,2566,Jellis Craig - Brunswick,2,1,1,0,1,0,0,0,0.2,20-39
+805/83 Queens Road Melbourne,3004,3004,VIC,650,2825,Besser & Co. Estate Agents,2,1,2,0,0,0,0,1,0.5,20-39
+208/445 Royal  Parade,Parkville,3052,VIC,400,2138,Jellis Craig - Brunswick,1,1,1,0,0,0,1,0,0.6,20-39
+14/581 Orrong Road,Armadale,3143,VIC,400,1738,Buxton Stonnington,2,1,1,1,1,0,1,0,0.6,20-39
+8/123 Beaconsfield Parade Albert,Park,3206,VIC,830,5410, Jellis Craig & Company Pty Ltd,2,2,0,0,0,0,0,0,0.6,40-59
+nan,nan,nan,nan,515,3090,Dingle Partners,2,1,0,0,0,0,0,0,0.8,20-39
+2/57 Harold  Street,Thornbury,3071,VIC,390,2085,Jellis Craig - Brunswick,2,1,1,1,1,0,0,0,0.2,20-39
+18/20 Cardigan Street St,Kilda,3182,VIC,320,1390,Biggin Scott St Kilda / Elwood,1,1,1,0,1,0,1,0,1.1,20-39
+4/13 Passfield Street Brunswick,West,3055,VIC,270,1173,Jellis Craig - Brunswick,1,1,0,1,0,0,0,0,0.4,20-39
+nan,nan,nan,nan,550,nan,Peter Blair Property Management,2,1,1,1,1,0,1,0,nan,40-59
+nan,nan,nan,nan,420,2100,Biggin Scott St Kilda / Elwood,2,1,0,0,0,0,0,0,nan,20-39
+1/4-6 Mallawa Street Clayton,South,3169,VIC,360,1564,Ray White Oakleigh,2,1,1,1,0,0,0,0,nan,20-39
+206/58 Latrobe St,Melbourne,3000,VIC,275,1195,Dingle Partners,1,1,0,1,0,0,0,0,0.7,20-39
+714/7 Claremont Street South,Yarra,3141,VIC,380,1651,Buxton Stonnington,1,1,1,0,0,0,0,0,1.5,20-39
+209/436-442 Huntingdale Road Mount,Waverley,3149,VIC,340,1477,Buxton Oakleigh,1,1,1,1,0,0,1,0,0.7,20-39
+2/17 Rosemary Street,Chadstone,3148,VIC,420,1825,Ray White Oakleigh,3,1,1,0,1,0,0,0,0.9,Under 20
+110/19-21 Hanover Street,Oakleigh,3166,VIC,355,1543,Buxton Oakleigh,1,1,1,1,0,0,1,0,0.8,20-39
+1/30 Lillimur  Road,Ormond,3204,VIC,450,1955,Buxton Oakleigh,2,1,1,1,1,0,1,0,0.9,20-39
+1210/3-5 St Kilda Road St,Kilda,3182,VIC,585,2925,Biggin Scott St Kilda / Elwood,2,1,1,0,0,0,1,0,1.1,20-39
+10/11A Milton Street,Elwood,3184,VIC,440,2200,Biggin Scott St Kilda / Elwood,2,1,1,0,0,0,0,0,0.6,20-39
+4/10 Coonil Street Oakleigh,South,3167,VIC,400,1739,Ray White Oakleigh,2,1,1,0,1,0,1,0,0.3,20-39
+309/101 Bay Street Port,Melbourne,3207,VIC,590,3154,Home AU Real Estate,2,2,1,0,0,0,0,0,0.5,20-39
+G05/1 Danks Street West Port,Melbourne,3207,VIC,410,2460,Biggin & Scott Port Melbourne,1,1,0,0,1,0,1,1,0.3,20-39
+210/445 Royal  Parade,Parkville,3052,VIC,310,1347,Buxton Stonnington,1,1,1,0,0,0,0,0,0.6,20-39
+16/3-5 Alvena  Street,Mentone,3194,VIC,420,2100,Hodges Real Estate Sandringham,2,2,1,1,0,0,0,0,0.8,40-59
+4/126 Albion Street,Brunswick,3056,VIC,450,2405,Jellis Craig - Brunswick,2,1,1,1,0,0,1,0,0.8,20-39
+1201/582 St Kilda  Road Melbourne,3004,3004,VIC,995,5970,Think Property & Co,3,2,1,0,0,0,1,1,nan,20-39
+65/39 Rathdowne Street,Carlton,3053,VIC,700,3742,Jellis Craig - Brunswick,3,1,1,0,0,0,0,0,0.5,20-39
+810/32 Bray Street South,Yarra,3141,VIC,280,1217,Dingle Partners,1,1,1,1,1,0,1,0,0.9,20-39
+4/25 Chadstone Road Malvern,East,3145,VIC,440,1912,Ray White Oakleigh,2,1,1,1,1,0,0,0,0.5,40-59
+310/1228 Nepean  Highway,Cheltenham,3192,VIC,440,2200,Hodges Real Estate Sandringham,2,2,1,1,1,0,1,0,0.4,20-39
+14/30 Lansell Road,Toorak,3142,VIC,795,4770,Marshall White Stonnington,2,2,2,0,0,0,0,0,1.1,60+
+101/59 Stawell Street,Richmond,3121,VIC,450,1955, Jellis Craig & Company Pty Ltd,2,1,1,0,0,0,0,0,0.4,20-39
+M01/10 Station Street Caulfield,North,3161,VIC,500,2172,Ray White Oakleigh,2,1,1,0,1,0,1,0,0.6,20-39
+9/45a Ormond Esplanade,Elwood,3184,VIC,470,2350,Biggin Scott St Kilda / Elwood,2,1,1,1,1,0,0,0,0.5,40-59
+1/1312 Dandenong Road,Hughesdale,3166,VIC,490,2130,Ray White Oakleigh,2,2,1,0,1,0,0,0,0.7,20-39
+7/13A Lewisham Road,Prahran,3181,VIC,410,1782,Buxton Stonnington,2,1,1,0,0,0,0,0,0.3,20-39
+11/118-124 Melville  Road Brunswick,West,3055,VIC,350,1521,Jellis Craig - Brunswick,1,1,1,1,0,0,1,0,0.5,20-39
+D302/460 Victoria  Street,Brunswick,3056,VIC,360,1924,Jellis Craig - Brunswick,1,1,1,1,0,0,1,0,0.1,20-39
+24/233 Canterbury Road St Kilda,West,3182,VIC,320,1390,Biggin Scott St Kilda / Elwood,1,1,1,0,0,0,0,0,0.2,20-39
+413/57 Bay Street Port,Melbourne,3207,VIC,560,2433,Biggin & Scott Port Melbourne,2,1,1,1,1,0,1,1,0.5,20-39
+201/392 St Georges  Road Fitzroy,North,3068,VIC,480,2566,Jellis Craig - Brunswick,2,1,1,0,1,0,0,0,0.2,20-39
+805/83 Queens Road Melbourne,3004,3004,VIC,650,2825,Besser & Co. Estate Agents,2,1,2,0,0,0,0,1,0.5,20-39
+208/445 Royal  Parade,Parkville,3052,VIC,400,2138,Jellis Craig - Brunswick,1,1,1,0,0,0,1,0,0.6,20-39
+14/581 Orrong Road,Armadale,3143,VIC,400,1738,Buxton Stonnington,2,1,1,1,1,0,1,0,0.6,20-39
+8/123 Beaconsfield Parade Albert,Park,3206,VIC,830,5410, Jellis Craig & Company Pty Ltd,2,2,0,0,0,0,0,0,0.6,40-59
+nan,nan,nan,nan,515,3090,Dingle Partners,2,1,0,0,0,0,0,0,0.8,20-39
+2/57 Harold  Street,Thornbury,3071,VIC,390,2085,Jellis Craig - Brunswick,2,1,1,1,1,0,0,0,0.2,20-39
+18/20 Cardigan Street St,Kilda,3182,VIC,320,1390,Biggin Scott St Kilda / Elwood,1,1,1,0,1,0,1,0,1.1,20-39
+4/13 Passfield Street Brunswick,West,3055,VIC,270,1173,Jellis Craig - Brunswick,1,1,0,1,0,0,0,0,0.4,20-39
+nan,nan,nan,nan,550,nan,Peter Blair Property Management,2,1,1,1,1,0,1,0,nan,40-59
+nan,nan,nan,nan,420,2100,Biggin Scott St Kilda / Elwood,2,1,0,0,0,0,0,0,nan,20-39
+1/4-6 Mallawa Street Clayton,South,3169,VIC,360,1564,Ray White Oakleigh,2,1,1,1,0,0,0,0,nan,20-39
+206/58 Latrobe St,Melbourne,3000,VIC,275,1195,Dingle Partners,1,1,0,1,0,0,0,0,0.7,20-39
+714/7 Claremont Street South,Yarra,3141,VIC,380,1651,Buxton Stonnington,1,1,1,0,0,0,0,0,1.5,20-39
+209/436-442 Huntingdale Road Mount,Waverley,3149,VIC,340,1477,Buxton Oakleigh,1,1,1,1,0,0,1,0,0.7,20-39
+2/17 Rosemary Street,Chadstone,3148,VIC,420,1825,Ray White Oakleigh,3,1,1,0,1,0,0,0,0.9,Under 20
+110/19-21 Hanover Street,Oakleigh,3166,VIC,355,1543,Buxton Oakleigh,1,1,1,1,0,0,1,0,0.8,20-39
+1/30 Lillimur  Road,Ormond,3204,VIC,450,1955,Buxton Oakleigh,2,1,1,1,1,0,1,0,0.9,20-39
+1210/3-5 St Kilda Road St,Kilda,3182,VIC,585,2925,Biggin Scott St Kilda / Elwood,2,1,1,0,0,0,1,0,1.1,20-39
+10/11A Milton Street,Elwood,3184,VIC,440,2200,Biggin Scott St Kilda / Elwood,2,1,1,0,0,0,0,0,0.6,20-39
+4/10 Coonil Street Oakleigh,South,3167,VIC,400,1739,Ray White Oakleigh,2,1,1,0,1,0,1,0,0.3,20-39
+309/101 Bay Street Port,Melbourne,3207,VIC,590,3154,Home AU Real Estate,2,2,1,0,0,0,0,0,0.5,20-39
+2019/551 Swanston Street,Carlton,3053,VIC,520,nan,NPM,2,1,0,0,0,0,0,0,0.8,20-39
+210/445 Royal  Parade,Parkville,3052,VIC,310,1347,Buxton Stonnington,1,1,1,0,0,0,0,0,0.6,20-39
+16/3-5 Alvena  Street,Mentone,3194,VIC,420,2100,Hodges Real Estate Sandringham,2,2,1,1,0,0,0,0,0.8,40-59
+4/126 Albion Street,Brunswick,3056,VIC,450,2405,Jellis Craig - Brunswick,2,1,1,1,0,0,1,0,0.8,20-39
+1201/582 St Kilda  Road Melbourne,3004,3004,VIC,995,5970,Think Property & Co,3,2,1,0,0,0,1,1,nan,20-39
+65/39 Rathdowne Street,Carlton,3053,VIC,700,3742,Jellis Craig - Brunswick,3,1,1,0,0,0,0,0,0.5,20-39
+810/32 Bray Street South,Yarra,3141,VIC,280,1217,Dingle Partners,1,1,1,1,1,0,1,0,0.9,20-39
+4/25 Chadstone Road Malvern,East,3145,VIC,440,1912,Ray White Oakleigh,2,1,1,1,1,0,0,0,0.5,40-59
+310/1228 Nepean  Highway,Cheltenham,3192,VIC,440,2200,Hodges Real Estate Sandringham,2,2,1,1,1,0,1,0,0.4,20-39
+14/30 Lansell Road,Toorak,3142,VIC,795,4770,Marshall White Stonnington,2,2,2,0,0,0,0,0,1.1,60+
+101/59 Stawell Street,Richmond,3121,VIC,450,1955, Jellis Craig & Company Pty Ltd,2,1,1,0,0,0,0,0,0.4,20-39
+M01/10 Station Street Caulfield,North,3161,VIC,500,2172,Ray White Oakleigh,2,1,1,0,1,0,1,0,0.6,20-39
+9/45a Ormond Esplanade,Elwood,3184,VIC,470,2350,Biggin Scott St Kilda / Elwood,2,1,1,1,1,0,0,0,0.5,40-59
+1/1312 Dandenong Road,Hughesdale,3166,VIC,490,2130,Ray White Oakleigh,2,2,1,0,1,0,0,0,0.7,20-39
+7/13A Lewisham Road,Prahran,3181,VIC,410,1782,Buxton Stonnington,2,1,1,0,0,0,0,0,0.3,20-39
+11/118-124 Melville  Road Brunswick,West,3055,VIC,350,1521,Jellis Craig - Brunswick,1,1,1,1,0,0,1,0,0.5,20-39
+D302/460 Victoria  Street,Brunswick,3056,VIC,360,1924,Jellis Craig - Brunswick,1,1,1,1,0,0,1,0,0.1,20-39
+24/233 Canterbury Road St Kilda,West,3182,VIC,320,1390,Biggin Scott St Kilda / Elwood,1,1,1,0,0,0,0,0,0.2,20-39
+413/57 Bay Street Port,Melbourne,3207,VIC,560,2433,Biggin & Scott Port Melbourne,2,1,1,1,1,0,1,1,0.5,20-39
+201/392 St Georges  Road Fitzroy,North,3068,VIC,480,2566,Jellis Craig - Brunswick,2,1,1,0,1,0,0,0,0.2,20-39
+805/83 Queens Road Melbourne,3004,3004,VIC,650,2825,Besser & Co. Estate Agents,2,1,2,0,0,0,0,1,0.5,20-39
+208/445 Royal  Parade,Parkville,3052,VIC,400,2138,Jellis Craig - Brunswick,1,1,1,0,0,0,1,0,0.6,20-39
+14/581 Orrong Road,Armadale,3143,VIC,400,1738,Buxton Stonnington,2,1,1,1,1,0,1,0,0.6,20-39
+8/123 Beaconsfield Parade Albert,Park,3206,VIC,830,5410, Jellis Craig & Company Pty Ltd,2,2,0,0,0,0,0,0,0.6,40-59
+nan,nan,nan,nan,515,3090,Dingle Partners,2,1,0,0,0,0,0,0,0.8,20-39
+2/57 Harold  Street,Thornbury,3071,VIC,390,2085,Jellis Craig - Brunswick,2,1,1,1,1,0,0,0,0.2,20-39
+18/20 Cardigan Street St,Kilda,3182,VIC,320,1390,Biggin Scott St Kilda / Elwood,1,1,1,0,1,0,1,0,1.1,20-39
+4/13 Passfield Street Brunswick,West,3055,VIC,270,1173,Jellis Craig - Brunswick,1,1,0,1,0,0,0,0,0.4,20-39
+nan,nan,nan,nan,550,nan,Peter Blair Property Management,2,1,1,1,1,0,1,0,nan,40-59
+nan,nan,nan,nan,420,2100,Biggin Scott St Kilda / Elwood,2,1,0,0,0,0,0,0,nan,20-39
+1/4-6 Mallawa Street Clayton,South,3169,VIC,360,1564,Ray White Oakleigh,2,1,1,1,0,0,0,0,nan,20-39
+206/58 Latrobe St,Melbourne,3000,VIC,275,1195,Dingle Partners,1,1,0,1,0,0,0,0,0.7,20-39
+714/7 Claremont Street South,Yarra,3141,VIC,380,1651,Buxton Stonnington,1,1,1,0,0,0,0,0,1.5,20-39
+209/436-442 Huntingdale Road Mount,Waverley,3149,VIC,340,1477,Buxton Oakleigh,1,1,1,1,0,0,1,0,0.7,20-39
+2/17 Rosemary Street,Chadstone,3148,VIC,420,1825,Ray White Oakleigh,3,1,1,0,1,0,0,0,0.9,Under 20
+110/19-21 Hanover Street,Oakleigh,3166,VIC,355,1543,Buxton Oakleigh,1,1,1,1,0,0,1,0,0.8,20-39
+1/30 Lillimur  Road,Ormond,3204,VIC,450,1955,Buxton Oakleigh,2,1,1,1,1,0,1,0,0.9,20-39
+1210/3-5 St Kilda Road St,Kilda,3182,VIC,585,2925,Biggin Scott St Kilda / Elwood,2,1,1,0,0,0,1,0,1.1,20-39
+10/11A Milton Street,Elwood,3184,VIC,440,2200,Biggin Scott St Kilda / Elwood,2,1,1,0,0,0,0,0,0.6,20-39
+4/10 Coonil Street Oakleigh,South,3167,VIC,400,1739,Ray White Oakleigh,2,1,1,0,1,0,1,0,0.3,20-39
+309/101 Bay Street Port,Melbourne,3207,VIC,590,3154,Home AU Real Estate,2,2,1,0,0,0,0,0,0.5,20-39
+2417/551 Swanston Street,Carlton,3053,VIC,520,2600,NPM,2,2,0,1,0,0,0,0,0.8,20-39
+210/445 Royal  Parade,Parkville,3052,VIC,310,1347,Buxton Stonnington,1,1,1,0,0,0,0,0,0.6,20-39
+16/3-5 Alvena  Street,Mentone,3194,VIC,420,2100,Hodges Real Estate Sandringham,2,2,1,1,0,0,0,0,0.8,40-59
+4/126 Albion Street,Brunswick,3056,VIC,450,2405,Jellis Craig - Brunswick,2,1,1,1,0,0,1,0,0.8,20-39
+1201/582 St Kilda  Road Melbourne,3004,3004,VIC,995,5970,Think Property & Co,3,2,1,0,0,0,1,1,nan,20-39
+65/39 Rathdowne Street,Carlton,3053,VIC,700,3742,Jellis Craig - Brunswick,3,1,1,0,0,0,0,0,0.5,20-39
+810/32 Bray Street South,Yarra,3141,VIC,280,1217,Dingle Partners,1,1,1,1,1,0,1,0,0.9,20-39
+4/25 Chadstone Road Malvern,East,3145,VIC,440,1912,Ray White Oakleigh,2,1,1,1,1,0,0,0,0.5,40-59
+310/1228 Nepean  Highway,Cheltenham,3192,VIC,440,2200,Hodges Real Estate Sandringham,2,2,1,1,1,0,1,0,0.4,20-39
+14/30 Lansell Road,Toorak,3142,VIC,795,4770,Marshall White Stonnington,2,2,2,0,0,0,0,0,1.1,60+
+101/59 Stawell Street,Richmond,3121,VIC,450,1955, Jellis Craig & Company Pty Ltd,2,1,1,0,0,0,0,0,0.4,20-39
+M01/10 Station Street Caulfield,North,3161,VIC,500,2172,Ray White Oakleigh,2,1,1,0,1,0,1,0,0.6,20-39
+9/45a Ormond Esplanade,Elwood,3184,VIC,470,2350,Biggin Scott St Kilda / Elwood,2,1,1,1,1,0,0,0,0.5,40-59
+1/1312 Dandenong Road,Hughesdale,3166,VIC,490,2130,Ray White Oakleigh,2,2,1,0,1,0,0,0,0.7,20-39
+7/13A Lewisham Road,Prahran,3181,VIC,410,1782,Buxton Stonnington,2,1,1,0,0,0,0,0,0.3,20-39
+11/118-124 Melville  Road Brunswick,West,3055,VIC,350,1521,Jellis Craig - Brunswick,1,1,1,1,0,0,1,0,0.5,20-39
+D302/460 Victoria  Street,Brunswick,3056,VIC,360,1924,Jellis Craig - Brunswick,1,1,1,1,0,0,1,0,0.1,20-39
+24/233 Canterbury Road St Kilda,West,3182,VIC,320,1390,Biggin Scott St Kilda / Elwood,1,1,1,0,0,0,0,0,0.2,20-39
+413/57 Bay Street Port,Melbourne,3207,VIC,560,2433,Biggin & Scott Port Melbourne,2,1,1,1,1,0,1,1,0.5,20-39
+201/392 St Georges  Road Fitzroy,North,3068,VIC,480,2566,Jellis Craig - Brunswick,2,1,1,0,1,0,0,0,0.2,20-39
+805/83 Queens Road Melbourne,3004,3004,VIC,650,2825,Besser & Co. Estate Agents,2,1,2,0,0,0,0,1,0.5,20-39
+208/445 Royal  Parade,Parkville,3052,VIC,400,2138,Jellis Craig - Brunswick,1,1,1,0,0,0,1,0,0.6,20-39
+14/581 Orrong Road,Armadale,3143,VIC,400,1738,Buxton Stonnington,2,1,1,1,1,0,1,0,0.6,20-39
+8/123 Beaconsfield Parade Albert,Park,3206,VIC,830,5410, Jellis Craig & Company Pty Ltd,2,2,0,0,0,0,0,0,0.6,40-59
+nan,nan,nan,nan,515,3090,Dingle Partners,2,1,0,0,0,0,0,0,0.8,20-39
+2/57 Harold  Street,Thornbury,3071,VIC,390,2085,Jellis Craig - Brunswick,2,1,1,1,1,0,0,0,0.2,20-39
+18/20 Cardigan Street St,Kilda,3182,VIC,320,1390,Biggin Scott St Kilda / Elwood,1,1,1,0,1,0,1,0,1.1,20-39
+4/13 Passfield Street Brunswick,West,3055,VIC,270,1173,Jellis Craig - Brunswick,1,1,0,1,0,0,0,0,0.4,20-39
+nan,nan,nan,nan,550,nan,Peter Blair Property Management,2,1,1,1,1,0,1,0,nan,40-59
+nan,nan,nan,nan,420,2100,Biggin Scott St Kilda / Elwood,2,1,0,0,0,0,0,0,nan,20-39
+1/4-6 Mallawa Street Clayton,South,3169,VIC,360,1564,Ray White Oakleigh,2,1,1,1,0,0,0,0,nan,20-39
+206/58 Latrobe St,Melbourne,3000,VIC,275,1195,Dingle Partners,1,1,0,1,0,0,0,0,0.7,20-39
+714/7 Claremont Street South,Yarra,3141,VIC,380,1651,Buxton Stonnington,1,1,1,0,0,0,0,0,1.5,20-39
+209/436-442 Huntingdale Road Mount,Waverley,3149,VIC,340,1477,Buxton Oakleigh,1,1,1,1,0,0,1,0,0.7,20-39
+2/17 Rosemary Street,Chadstone,3148,VIC,420,1825,Ray White Oakleigh,3,1,1,0,1,0,0,0,0.9,Under 20
+110/19-21 Hanover Street,Oakleigh,3166,VIC,355,1543,Buxton Oakleigh,1,1,1,1,0,0,1,0,0.8,20-39
+1/30 Lillimur  Road,Ormond,3204,VIC,450,1955,Buxton Oakleigh,2,1,1,1,1,0,1,0,0.9,20-39
+1210/3-5 St Kilda Road St,Kilda,3182,VIC,585,2925,Biggin Scott St Kilda / Elwood,2,1,1,0,0,0,1,0,1.1,20-39
+10/11A Milton Street,Elwood,3184,VIC,440,2200,Biggin Scott St Kilda / Elwood,2,1,1,0,0,0,0,0,0.6,20-39
+4/10 Coonil Street Oakleigh,South,3167,VIC,400,1739,Ray White Oakleigh,2,1,1,0,1,0,1,0,0.3,20-39
+309/101 Bay Street Port,Melbourne,3207,VIC,590,3154,Home AU Real Estate,2,2,1,0,0,0,0,0,0.5,20-39
+3209/639 LONSDALE STREET,Melbourne,3000,VIC,390,nan, Elite Real Estate,2,1,0,0,0,0,0,0,nan,20-39
+210/445 Royal  Parade,Parkville,3052,VIC,310,1347,Buxton Stonnington,1,1,1,0,0,0,0,0,0.6,20-39
+16/3-5 Alvena  Street,Mentone,3194,VIC,420,2100,Hodges Real Estate Sandringham,2,2,1,1,0,0,0,0,0.8,40-59
+4/126 Albion Street,Brunswick,3056,VIC,450,2405,Jellis Craig - Brunswick,2,1,1,1,0,0,1,0,0.8,20-39
+1201/582 St Kilda  Road Melbourne,3004,3004,VIC,995,5970,Think Property & Co,3,2,1,0,0,0,1,1,nan,20-39
+65/39 Rathdowne Street,Carlton,3053,VIC,700,3742,Jellis Craig - Brunswick,3,1,1,0,0,0,0,0,0.5,20-39
+810/32 Bray Street South,Yarra,3141,VIC,280,1217,Dingle Partners,1,1,1,1,1,0,1,0,0.9,20-39
+4/25 Chadstone Road Malvern,East,3145,VIC,440,1912,Ray White Oakleigh,2,1,1,1,1,0,0,0,0.5,40-59
+310/1228 Nepean  Highway,Cheltenham,3192,VIC,440,2200,Hodges Real Estate Sandringham,2,2,1,1,1,0,1,0,0.4,20-39
+14/30 Lansell Road,Toorak,3142,VIC,795,4770,Marshall White Stonnington,2,2,2,0,0,0,0,0,1.1,60+
+101/59 Stawell Street,Richmond,3121,VIC,450,1955, Jellis Craig & Company Pty Ltd,2,1,1,0,0,0,0,0,0.4,20-39
+M01/10 Station Street Caulfield,North,3161,VIC,500,2172,Ray White Oakleigh,2,1,1,0,1,0,1,0,0.6,20-39
+9/45a Ormond Esplanade,Elwood,3184,VIC,470,2350,Biggin Scott St Kilda / Elwood,2,1,1,1,1,0,0,0,0.5,40-59
+1/1312 Dandenong Road,Hughesdale,3166,VIC,490,2130,Ray White Oakleigh,2,2,1,0,1,0,0,0,0.7,20-39
+7/13A Lewisham Road,Prahran,3181,VIC,410,1782,Buxton Stonnington,2,1,1,0,0,0,0,0,0.3,20-39
+11/118-124 Melville  Road Brunswick,West,3055,VIC,350,1521,Jellis Craig - Brunswick,1,1,1,1,0,0,1,0,0.5,20-39
+D302/460 Victoria  Street,Brunswick,3056,VIC,360,1924,Jellis Craig - Brunswick,1,1,1,1,0,0,1,0,0.1,20-39
+24/233 Canterbury Road St Kilda,West,3182,VIC,320,1390,Biggin Scott St Kilda / Elwood,1,1,1,0,0,0,0,0,0.2,20-39
+413/57 Bay Street Port,Melbourne,3207,VIC,560,2433,Biggin & Scott Port Melbourne,2,1,1,1,1,0,1,1,0.5,20-39
+201/392 St Georges  Road Fitzroy,North,3068,VIC,480,2566,Jellis Craig - Brunswick,2,1,1,0,1,0,0,0,0.2,20-39
+805/83 Queens Road Melbourne,3004,3004,VIC,650,2825,Besser & Co. Estate Agents,2,1,2,0,0,0,0,1,0.5,20-39
+208/445 Royal  Parade,Parkville,3052,VIC,400,2138,Jellis Craig - Brunswick,1,1,1,0,0,0,1,0,0.6,20-39
+14/581 Orrong Road,Armadale,3143,VIC,400,1738,Buxton Stonnington,2,1,1,1,1,0,1,0,0.6,20-39
+8/123 Beaconsfield Parade Albert,Park,3206,VIC,830,5410, Jellis Craig & Company Pty Ltd,2,2,0,0,0,0,0,0,0.6,40-59
+nan,nan,nan,nan,515,3090,Dingle Partners,2,1,0,0,0,0,0,0,0.8,20-39
+2/57 Harold  Street,Thornbury,3071,VIC,390,2085,Jellis Craig - Brunswick,2,1,1,1,1,0,0,0,0.2,20-39
+18/20 Cardigan Street St,Kilda,3182,VIC,320,1390,Biggin Scott St Kilda / Elwood,1,1,1,0,1,0,1,0,1.1,20-39
+4/13 Passfield Street Brunswick,West,3055,VIC,270,1173,Jellis Craig - Brunswick,1,1,0,1,0,0,0,0,0.4,20-39
+nan,nan,nan,nan,550,nan,Peter Blair Property Management,2,1,1,1,1,0,1,0,nan,40-59
+nan,nan,nan,nan,420,2100,Biggin Scott St Kilda / Elwood,2,1,0,0,0,0,0,0,nan,20-39
+1/4-6 Mallawa Street Clayton,South,3169,VIC,360,1564,Ray White Oakleigh,2,1,1,1,0,0,0,0,nan,20-39
+206/58 Latrobe St,Melbourne,3000,VIC,275,1195,Dingle Partners,1,1,0,1,0,0,0,0,0.7,20-39
+714/7 Claremont Street South,Yarra,3141,VIC,380,1651,Buxton Stonnington,1,1,1,0,0,0,0,0,1.5,20-39
+209/436-442 Huntingdale Road Mount,Waverley,3149,VIC,340,1477,Buxton Oakleigh,1,1,1,1,0,0,1,0,0.7,20-39
+2/17 Rosemary Street,Chadstone,3148,VIC,420,1825,Ray White Oakleigh,3,1,1,0,1,0,0,0,0.9,Under 20
+110/19-21 Hanover Street,Oakleigh,3166,VIC,355,1543,Buxton Oakleigh,1,1,1,1,0,0,1,0,0.8,20-39
+1/30 Lillimur  Road,Ormond,3204,VIC,450,1955,Buxton Oakleigh,2,1,1,1,1,0,1,0,0.9,20-39
+1210/3-5 St Kilda Road St,Kilda,3182,VIC,585,2925,Biggin Scott St Kilda / Elwood,2,1,1,0,0,0,1,0,1.1,20-39
+10/11A Milton Street,Elwood,3184,VIC,440,2200,Biggin Scott St Kilda / Elwood,2,1,1,0,0,0,0,0,0.6,20-39
+4/10 Coonil Street Oakleigh,South,3167,VIC,400,1739,Ray White Oakleigh,2,1,1,0,1,0,1,0,0.3,20-39
+309/101 Bay Street Port,Melbourne,3207,VIC,590,3154,Home AU Real Estate,2,2,1,0,0,0,0,0,0.5,20-39
+1701/28 Bouverie Street,Carlton,3053,VIC,450,nan,Paragon Real Estate Pty Ltd,2,2,0,0,0,0,0,0,0.8,20-39
+210/445 Royal  Parade,Parkville,3052,VIC,310,1347,Buxton Stonnington,1,1,1,0,0,0,0,0,0.6,20-39
+16/3-5 Alvena  Street,Mentone,3194,VIC,420,2100,Hodges Real Estate Sandringham,2,2,1,1,0,0,0,0,0.8,40-59
+4/126 Albion Street,Brunswick,3056,VIC,450,2405,Jellis Craig - Brunswick,2,1,1,1,0,0,1,0,0.8,20-39
+1201/582 St Kilda  Road Melbourne,3004,3004,VIC,995,5970,Think Property & Co,3,2,1,0,0,0,1,1,nan,20-39
+65/39 Rathdowne Street,Carlton,3053,VIC,700,3742,Jellis Craig - Brunswick,3,1,1,0,0,0,0,0,0.5,20-39
+810/32 Bray Street South,Yarra,3141,VIC,280,1217,Dingle Partners,1,1,1,1,1,0,1,0,0.9,20-39
+4/25 Chadstone Road Malvern,East,3145,VIC,440,1912,Ray White Oakleigh,2,1,1,1,1,0,0,0,0.5,40-59
+310/1228 Nepean  Highway,Cheltenham,3192,VIC,440,2200,Hodges Real Estate Sandringham,2,2,1,1,1,0,1,0,0.4,20-39
+14/30 Lansell Road,Toorak,3142,VIC,795,4770,Marshall White Stonnington,2,2,2,0,0,0,0,0,1.1,60+
+101/59 Stawell Street,Richmond,3121,VIC,450,1955, Jellis Craig & Company Pty Ltd,2,1,1,0,0,0,0,0,0.4,20-39
+M01/10 Station Street Caulfield,North,3161,VIC,500,2172,Ray White Oakleigh,2,1,1,0,1,0,1,0,0.6,20-39
+9/45a Ormond Esplanade,Elwood,3184,VIC,470,2350,Biggin Scott St Kilda / Elwood,2,1,1,1,1,0,0,0,0.5,40-59
+1/1312 Dandenong Road,Hughesdale,3166,VIC,490,2130,Ray White Oakleigh,2,2,1,0,1,0,0,0,0.7,20-39
+7/13A Lewisham Road,Prahran,3181,VIC,410,1782,Buxton Stonnington,2,1,1,0,0,0,0,0,0.3,20-39
+11/118-124 Melville  Road Brunswick,West,3055,VIC,350,1521,Jellis Craig - Brunswick,1,1,1,1,0,0,1,0,0.5,20-39
+D302/460 Victoria  Street,Brunswick,3056,VIC,360,1924,Jellis Craig - Brunswick,1,1,1,1,0,0,1,0,0.1,20-39
+24/233 Canterbury Road St Kilda,West,3182,VIC,320,1390,Biggin Scott St Kilda / Elwood,1,1,1,0,0,0,0,0,0.2,20-39
+413/57 Bay Street Port,Melbourne,3207,VIC,560,2433,Biggin & Scott Port Melbourne,2,1,1,1,1,0,1,1,0.5,20-39
+201/392 St Georges  Road Fitzroy,North,3068,VIC,480,2566,Jellis Craig - Brunswick,2,1,1,0,1,0,0,0,0.2,20-39
+805/83 Queens Road Melbourne,3004,3004,VIC,650,2825,Besser & Co. Estate Agents,2,1,2,0,0,0,0,1,0.5,20-39
+208/445 Royal  Parade,Parkville,3052,VIC,400,2138,Jellis Craig - Brunswick,1,1,1,0,0,0,1,0,0.6,20-39
+14/581 Orrong Road,Armadale,3143,VIC,400,1738,Buxton Stonnington,2,1,1,1,1,0,1,0,0.6,20-39
+8/123 Beaconsfield Parade Albert,Park,3206,VIC,830,5410, Jellis Craig & Company Pty Ltd,2,2,0,0,0,0,0,0,0.6,40-59
+nan,nan,nan,nan,515,3090,Dingle Partners,2,1,0,0,0,0,0,0,0.8,20-39
+2/57 Harold  Street,Thornbury,3071,VIC,390,2085,Jellis Craig - Brunswick,2,1,1,1,1,0,0,0,0.2,20-39
+18/20 Cardigan Street St,Kilda,3182,VIC,320,1390,Biggin Scott St Kilda / Elwood,1,1,1,0,1,0,1,0,1.1,20-39
+4/13 Passfield Street Brunswick,West,3055,VIC,270,1173,Jellis Craig - Brunswick,1,1,0,1,0,0,0,0,0.4,20-39
+nan,nan,nan,nan,550,nan,Peter Blair Property Management,2,1,1,1,1,0,1,0,nan,40-59
+nan,nan,nan,nan,420,2100,Biggin Scott St Kilda / Elwood,2,1,0,0,0,0,0,0,nan,20-39
+1/4-6 Mallawa Street Clayton,South,3169,VIC,360,1564,Ray White Oakleigh,2,1,1,1,0,0,0,0,nan,20-39
+206/58 Latrobe St,Melbourne,3000,VIC,275,1195,Dingle Partners,1,1,0,1,0,0,0,0,0.7,20-39
+714/7 Claremont Street South,Yarra,3141,VIC,380,1651,Buxton Stonnington,1,1,1,0,0,0,0,0,1.5,20-39
+209/436-442 Huntingdale Road Mount,Waverley,3149,VIC,340,1477,Buxton Oakleigh,1,1,1,1,0,0,1,0,0.7,20-39
+2/17 Rosemary Street,Chadstone,3148,VIC,420,1825,Ray White Oakleigh,3,1,1,0,1,0,0,0,0.9,Under 20
+110/19-21 Hanover Street,Oakleigh,3166,VIC,355,1543,Buxton Oakleigh,1,1,1,1,0,0,1,0,0.8,20-39
+1/30 Lillimur  Road,Ormond,3204,VIC,450,1955,Buxton Oakleigh,2,1,1,1,1,0,1,0,0.9,20-39
+1210/3-5 St Kilda Road St,Kilda,3182,VIC,585,2925,Biggin Scott St Kilda / Elwood,2,1,1,0,0,0,1,0,1.1,20-39
+10/11A Milton Street,Elwood,3184,VIC,440,2200,Biggin Scott St Kilda / Elwood,2,1,1,0,0,0,0,0,0.6,20-39
+4/10 Coonil Street Oakleigh,South,3167,VIC,400,1739,Ray White Oakleigh,2,1,1,0,1,0,1,0,0.3,20-39
+309/101 Bay Street Port,Melbourne,3207,VIC,590,3154,Home AU Real Estate,2,2,1,0,0,0,0,0,0.5,20-39
+A804/57 Bay Street Port,Melbourne,3207,VIC,420,2520,Biggin & Scott Port Melbourne,1,1,1,1,1,0,1,0,0.5,20-39
+210/445 Royal  Parade,Parkville,3052,VIC,310,1347,Buxton Stonnington,1,1,1,0,0,0,0,0,0.6,20-39
+16/3-5 Alvena  Street,Mentone,3194,VIC,420,2100,Hodges Real Estate Sandringham,2,2,1,1,0,0,0,0,0.8,40-59
+4/126 Albion Street,Brunswick,3056,VIC,450,2405,Jellis Craig - Brunswick,2,1,1,1,0,0,1,0,0.8,20-39
+1201/582 St Kilda  Road Melbourne,3004,3004,VIC,995,5970,Think Property & Co,3,2,1,0,0,0,1,1,nan,20-39
+65/39 Rathdowne Street,Carlton,3053,VIC,700,3742,Jellis Craig - Brunswick,3,1,1,0,0,0,0,0,0.5,20-39
+810/32 Bray Street South,Yarra,3141,VIC,280,1217,Dingle Partners,1,1,1,1,1,0,1,0,0.9,20-39
+4/25 Chadstone Road Malvern,East,3145,VIC,440,1912,Ray White Oakleigh,2,1,1,1,1,0,0,0,0.5,40-59
+310/1228 Nepean  Highway,Cheltenham,3192,VIC,440,2200,Hodges Real Estate Sandringham,2,2,1,1,1,0,1,0,0.4,20-39
+14/30 Lansell Road,Toorak,3142,VIC,795,4770,Marshall White Stonnington,2,2,2,0,0,0,0,0,1.1,60+
+101/59 Stawell Street,Richmond,3121,VIC,450,1955, Jellis Craig & Company Pty Ltd,2,1,1,0,0,0,0,0,0.4,20-39
+M01/10 Station Street Caulfield,North,3161,VIC,500,2172,Ray White Oakleigh,2,1,1,0,1,0,1,0,0.6,20-39
+9/45a Ormond Esplanade,Elwood,3184,VIC,470,2350,Biggin Scott St Kilda / Elwood,2,1,1,1,1,0,0,0,0.5,40-59
+1/1312 Dandenong Road,Hughesdale,3166,VIC,490,2130,Ray White Oakleigh,2,2,1,0,1,0,0,0,0.7,20-39
+7/13A Lewisham Road,Prahran,3181,VIC,410,1782,Buxton Stonnington,2,1,1,0,0,0,0,0,0.3,20-39
+11/118-124 Melville  Road Brunswick,West,3055,VIC,350,1521,Jellis Craig - Brunswick,1,1,1,1,0,0,1,0,0.5,20-39
+D302/460 Victoria  Street,Brunswick,3056,VIC,360,1924,Jellis Craig - Brunswick,1,1,1,1,0,0,1,0,0.1,20-39
+24/233 Canterbury Road St Kilda,West,3182,VIC,320,1390,Biggin Scott St Kilda / Elwood,1,1,1,0,0,0,0,0,0.2,20-39
+413/57 Bay Street Port,Melbourne,3207,VIC,560,2433,Biggin & Scott Port Melbourne,2,1,1,1,1,0,1,1,0.5,20-39
+201/392 St Georges  Road Fitzroy,North,3068,VIC,480,2566,Jellis Craig - Brunswick,2,1,1,0,1,0,0,0,0.2,20-39
+805/83 Queens Road Melbourne,3004,3004,VIC,650,2825,Besser & Co. Estate Agents,2,1,2,0,0,0,0,1,0.5,20-39
+208/445 Royal  Parade,Parkville,3052,VIC,400,2138,Jellis Craig - Brunswick,1,1,1,0,0,0,1,0,0.6,20-39
+14/581 Orrong Road,Armadale,3143,VIC,400,1738,Buxton Stonnington,2,1,1,1,1,0,1,0,0.6,20-39
+8/123 Beaconsfield Parade Albert,Park,3206,VIC,830,5410, Jellis Craig & Company Pty Ltd,2,2,0,0,0,0,0,0,0.6,40-59
+nan,nan,nan,nan,515,3090,Dingle Partners,2,1,0,0,0,0,0,0,0.8,20-39
+2/57 Harold  Street,Thornbury,3071,VIC,390,2085,Jellis Craig - Brunswick,2,1,1,1,1,0,0,0,0.2,20-39
+18/20 Cardigan Street St,Kilda,3182,VIC,320,1390,Biggin Scott St Kilda / Elwood,1,1,1,0,1,0,1,0,1.1,20-39
+4/13 Passfield Street Brunswick,West,3055,VIC,270,1173,Jellis Craig - Brunswick,1,1,0,1,0,0,0,0,0.4,20-39
+nan,nan,nan,nan,550,nan,Peter Blair Property Management,2,1,1,1,1,0,1,0,nan,40-59
+nan,nan,nan,nan,420,2100,Biggin Scott St Kilda / Elwood,2,1,0,0,0,0,0,0,nan,20-39
+1/4-6 Mallawa Street Clayton,South,3169,VIC,360,1564,Ray White Oakleigh,2,1,1,1,0,0,0,0,nan,20-39
+206/58 Latrobe St,Melbourne,3000,VIC,275,1195,Dingle Partners,1,1,0,1,0,0,0,0,0.7,20-39
+714/7 Claremont Street South,Yarra,3141,VIC,380,1651,Buxton Stonnington,1,1,1,0,0,0,0,0,1.5,20-39
+209/436-442 Huntingdale Road Mount,Waverley,3149,VIC,340,1477,Buxton Oakleigh,1,1,1,1,0,0,1,0,0.7,20-39
+2/17 Rosemary Street,Chadstone,3148,VIC,420,1825,Ray White Oakleigh,3,1,1,0,1,0,0,0,0.9,Under 20
+110/19-21 Hanover Street,Oakleigh,3166,VIC,355,1543,Buxton Oakleigh,1,1,1,1,0,0,1,0,0.8,20-39
+1/30 Lillimur  Road,Ormond,3204,VIC,450,1955,Buxton Oakleigh,2,1,1,1,1,0,1,0,0.9,20-39
+1210/3-5 St Kilda Road St,Kilda,3182,VIC,585,2925,Biggin Scott St Kilda / Elwood,2,1,1,0,0,0,1,0,1.1,20-39
+10/11A Milton Street,Elwood,3184,VIC,440,2200,Biggin Scott St Kilda / Elwood,2,1,1,0,0,0,0,0,0.6,20-39
+4/10 Coonil Street Oakleigh,South,3167,VIC,400,1739,Ray White Oakleigh,2,1,1,0,1,0,1,0,0.3,20-39
+309/101 Bay Street Port,Melbourne,3207,VIC,590,3154,Home AU Real Estate,2,2,1,0,0,0,0,0,0.5,20-39
+2115/65 Dudley Street West,Melbourne,3003,VIC,400,nan,Waterdale Property Agent Pty Ltd,1,1,0,0,0,0,0,0,1.5,20-39
+210/445 Royal  Parade,Parkville,3052,VIC,310,1347,Buxton Stonnington,1,1,1,0,0,0,0,0,0.6,20-39
+16/3-5 Alvena  Street,Mentone,3194,VIC,420,2100,Hodges Real Estate Sandringham,2,2,1,1,0,0,0,0,0.8,40-59
+4/126 Albion Street,Brunswick,3056,VIC,450,2405,Jellis Craig - Brunswick,2,1,1,1,0,0,1,0,0.8,20-39
+1201/582 St Kilda  Road Melbourne,3004,3004,VIC,995,5970,Think Property & Co,3,2,1,0,0,0,1,1,nan,20-39
+65/39 Rathdowne Street,Carlton,3053,VIC,700,3742,Jellis Craig - Brunswick,3,1,1,0,0,0,0,0,0.5,20-39
+810/32 Bray Street South,Yarra,3141,VIC,280,1217,Dingle Partners,1,1,1,1,1,0,1,0,0.9,20-39
+4/25 Chadstone Road Malvern,East,3145,VIC,440,1912,Ray White Oakleigh,2,1,1,1,1,0,0,0,0.5,40-59
+310/1228 Nepean  Highway,Cheltenham,3192,VIC,440,2200,Hodges Real Estate Sandringham,2,2,1,1,1,0,1,0,0.4,20-39
+14/30 Lansell Road,Toorak,3142,VIC,795,4770,Marshall White Stonnington,2,2,2,0,0,0,0,0,1.1,60+
+101/59 Stawell Street,Richmond,3121,VIC,450,1955, Jellis Craig & Company Pty Ltd,2,1,1,0,0,0,0,0,0.4,20-39
+M01/10 Station Street Caulfield,North,3161,VIC,500,2172,Ray White Oakleigh,2,1,1,0,1,0,1,0,0.6,20-39
+9/45a Ormond Esplanade,Elwood,3184,VIC,470,2350,Biggin Scott St Kilda / Elwood,2,1,1,1,1,0,0,0,0.5,40-59
+1/1312 Dandenong Road,Hughesdale,3166,VIC,490,2130,Ray White Oakleigh,2,2,1,0,1,0,0,0,0.7,20-39
+7/13A Lewisham Road,Prahran,3181,VIC,410,1782,Buxton Stonnington,2,1,1,0,0,0,0,0,0.3,20-39
+11/118-124 Melville  Road Brunswick,West,3055,VIC,350,1521,Jellis Craig - Brunswick,1,1,1,1,0,0,1,0,0.5,20-39
+D302/460 Victoria  Street,Brunswick,3056,VIC,360,1924,Jellis Craig - Brunswick,1,1,1,1,0,0,1,0,0.1,20-39
+24/233 Canterbury Road St Kilda,West,3182,VIC,320,1390,Biggin Scott St Kilda / Elwood,1,1,1,0,0,0,0,0,0.2,20-39
+413/57 Bay Street Port,Melbourne,3207,VIC,560,2433,Biggin & Scott Port Melbourne,2,1,1,1,1,0,1,1,0.5,20-39
+201/392 St Georges  Road Fitzroy,North,3068,VIC,480,2566,Jellis Craig - Brunswick,2,1,1,0,1,0,0,0,0.2,20-39
+805/83 Queens Road Melbourne,3004,3004,VIC,650,2825,Besser & Co. Estate Agents,2,1,2,0,0,0,0,1,0.5,20-39
+208/445 Royal  Parade,Parkville,3052,VIC,400,2138,Jellis Craig - Brunswick,1,1,1,0,0,0,1,0,0.6,20-39
+14/581 Orrong Road,Armadale,3143,VIC,400,1738,Buxton Stonnington,2,1,1,1,1,0,1,0,0.6,20-39
+8/123 Beaconsfield Parade Albert,Park,3206,VIC,830,5410, Jellis Craig & Company Pty Ltd,2,2,0,0,0,0,0,0,0.6,40-59
+nan,nan,nan,nan,515,3090,Dingle Partners,2,1,0,0,0,0,0,0,0.8,20-39
+2/57 Harold  Street,Thornbury,3071,VIC,390,2085,Jellis Craig - Brunswick,2,1,1,1,1,0,0,0,0.2,20-39
+18/20 Cardigan Street St,Kilda,3182,VIC,320,1390,Biggin Scott St Kilda / Elwood,1,1,1,0,1,0,1,0,1.1,20-39
+4/13 Passfield Street Brunswick,West,3055,VIC,270,1173,Jellis Craig - Brunswick,1,1,0,1,0,0,0,0,0.4,20-39
+nan,nan,nan,nan,550,nan,Peter Blair Property Management,2,1,1,1,1,0,1,0,nan,40-59
+nan,nan,nan,nan,420,2100,Biggin Scott St Kilda / Elwood,2,1,0,0,0,0,0,0,nan,20-39
+1/4-6 Mallawa Street Clayton,South,3169,VIC,360,1564,Ray White Oakleigh,2,1,1,1,0,0,0,0,nan,20-39
+206/58 Latrobe St,Melbourne,3000,VIC,275,1195,Dingle Partners,1,1,0,1,0,0,0,0,0.7,20-39
+714/7 Claremont Street South,Yarra,3141,VIC,380,1651,Buxton Stonnington,1,1,1,0,0,0,0,0,1.5,20-39
+209/436-442 Huntingdale Road Mount,Waverley,3149,VIC,340,1477,Buxton Oakleigh,1,1,1,1,0,0,1,0,0.7,20-39
+2/17 Rosemary Street,Chadstone,3148,VIC,420,1825,Ray White Oakleigh,3,1,1,0,1,0,0,0,0.9,Under 20
+110/19-21 Hanover Street,Oakleigh,3166,VIC,355,1543,Buxton Oakleigh,1,1,1,1,0,0,1,0,0.8,20-39
+1/30 Lillimur  Road,Ormond,3204,VIC,450,1955,Buxton Oakleigh,2,1,1,1,1,0,1,0,0.9,20-39
+1210/3-5 St Kilda Road St,Kilda,3182,VIC,585,2925,Biggin Scott St Kilda / Elwood,2,1,1,0,0,0,1,0,1.1,20-39
+10/11A Milton Street,Elwood,3184,VIC,440,2200,Biggin Scott St Kilda / Elwood,2,1,1,0,0,0,0,0,0.6,20-39
+4/10 Coonil Street Oakleigh,South,3167,VIC,400,1739,Ray White Oakleigh,2,1,1,0,1,0,1,0,0.3,20-39
+309/101 Bay Street Port,Melbourne,3207,VIC,590,3154,Home AU Real Estate,2,2,1,0,0,0,0,0,0.5,20-39
+2115/65 Dudley Street West,Melbourne,3003,VIC,400,nan,Waterdale Property Agent Pty Ltd,1,1,0,0,0,0,0,0,1.5,20-39
+210/445 Royal  Parade,Parkville,3052,VIC,310,1347,Buxton Stonnington,1,1,1,0,0,0,0,0,0.6,20-39
+16/3-5 Alvena  Street,Mentone,3194,VIC,420,2100,Hodges Real Estate Sandringham,2,2,1,1,0,0,0,0,0.8,40-59
+4/126 Albion Street,Brunswick,3056,VIC,450,2405,Jellis Craig - Brunswick,2,1,1,1,0,0,1,0,0.8,20-39
+1201/582 St Kilda  Road Melbourne,3004,3004,VIC,995,5970,Think Property & Co,3,2,1,0,0,0,1,1,nan,20-39
+65/39 Rathdowne Street,Carlton,3053,VIC,700,3742,Jellis Craig - Brunswick,3,1,1,0,0,0,0,0,0.5,20-39
+810/32 Bray Street South,Yarra,3141,VIC,280,1217,Dingle Partners,1,1,1,1,1,0,1,0,0.9,20-39
+4/25 Chadstone Road Malvern,East,3145,VIC,440,1912,Ray White Oakleigh,2,1,1,1,1,0,0,0,0.5,40-59
+310/1228 Nepean  Highway,Cheltenham,3192,VIC,440,2200,Hodges Real Estate Sandringham,2,2,1,1,1,0,1,0,0.4,20-39
+14/30 Lansell Road,Toorak,3142,VIC,795,4770,Marshall White Stonnington,2,2,2,0,0,0,0,0,1.1,60+
+101/59 Stawell Street,Richmond,3121,VIC,450,1955, Jellis Craig & Company Pty Ltd,2,1,1,0,0,0,0,0,0.4,20-39
+M01/10 Station Street Caulfield,North,3161,VIC,500,2172,Ray White Oakleigh,2,1,1,0,1,0,1,0,0.6,20-39
+9/45a Ormond Esplanade,Elwood,3184,VIC,470,2350,Biggin Scott St Kilda / Elwood,2,1,1,1,1,0,0,0,0.5,40-59
+1/1312 Dandenong Road,Hughesdale,3166,VIC,490,2130,Ray White Oakleigh,2,2,1,0,1,0,0,0,0.7,20-39
+7/13A Lewisham Road,Prahran,3181,VIC,410,1782,Buxton Stonnington,2,1,1,0,0,0,0,0,0.3,20-39
+11/118-124 Melville  Road Brunswick,West,3055,VIC,350,1521,Jellis Craig - Brunswick,1,1,1,1,0,0,1,0,0.5,20-39
+D302/460 Victoria  Street,Brunswick,3056,VIC,360,1924,Jellis Craig - Brunswick,1,1,1,1,0,0,1,0,0.1,20-39
+24/233 Canterbury Road St Kilda,West,3182,VIC,320,1390,Biggin Scott St Kilda / Elwood,1,1,1,0,0,0,0,0,0.2,20-39
+413/57 Bay Street Port,Melbourne,3207,VIC,560,2433,Biggin & Scott Port Melbourne,2,1,1,1,1,0,1,1,0.5,20-39
+201/392 St Georges  Road Fitzroy,North,3068,VIC,480,2566,Jellis Craig - Brunswick,2,1,1,0,1,0,0,0,0.2,20-39
+805/83 Queens Road Melbourne,3004,3004,VIC,650,2825,Besser & Co. Estate Agents,2,1,2,0,0,0,0,1,0.5,20-39
+208/445 Royal  Parade,Parkville,3052,VIC,400,2138,Jellis Craig - Brunswick,1,1,1,0,0,0,1,0,0.6,20-39
+14/581 Orrong Road,Armadale,3143,VIC,400,1738,Buxton Stonnington,2,1,1,1,1,0,1,0,0.6,20-39
+8/123 Beaconsfield Parade Albert,Park,3206,VIC,830,5410, Jellis Craig & Company Pty Ltd,2,2,0,0,0,0,0,0,0.6,40-59
+nan,nan,nan,nan,515,3090,Dingle Partners,2,1,0,0,0,0,0,0,0.8,20-39
+2/57 Harold  Street,Thornbury,3071,VIC,390,2085,Jellis Craig - Brunswick,2,1,1,1,1,0,0,0,0.2,20-39
+18/20 Cardigan Street St,Kilda,3182,VIC,320,1390,Biggin Scott St Kilda / Elwood,1,1,1,0,1,0,1,0,1.1,20-39
+4/13 Passfield Street Brunswick,West,3055,VIC,270,1173,Jellis Craig - Brunswick,1,1,0,1,0,0,0,0,0.4,20-39
+nan,nan,nan,nan,550,nan,Peter Blair Property Management,2,1,1,1,1,0,1,0,nan,40-59
+nan,nan,nan,nan,420,2100,Biggin Scott St Kilda / Elwood,2,1,0,0,0,0,0,0,nan,20-39
+1/4-6 Mallawa Street Clayton,South,3169,VIC,360,1564,Ray White Oakleigh,2,1,1,1,0,0,0,0,nan,20-39
+206/58 Latrobe St,Melbourne,3000,VIC,275,1195,Dingle Partners,1,1,0,1,0,0,0,0,0.7,20-39
+714/7 Claremont Street South,Yarra,3141,VIC,380,1651,Buxton Stonnington,1,1,1,0,0,0,0,0,1.5,20-39
+209/436-442 Huntingdale Road Mount,Waverley,3149,VIC,340,1477,Buxton Oakleigh,1,1,1,1,0,0,1,0,0.7,20-39
+2/17 Rosemary Street,Chadstone,3148,VIC,420,1825,Ray White Oakleigh,3,1,1,0,1,0,0,0,0.9,Under 20
+110/19-21 Hanover Street,Oakleigh,3166,VIC,355,1543,Buxton Oakleigh,1,1,1,1,0,0,1,0,0.8,20-39
+1/30 Lillimur  Road,Ormond,3204,VIC,450,1955,Buxton Oakleigh,2,1,1,1,1,0,1,0,0.9,20-39
+1210/3-5 St Kilda Road St,Kilda,3182,VIC,585,2925,Biggin Scott St Kilda / Elwood,2,1,1,0,0,0,1,0,1.1,20-39
+10/11A Milton Street,Elwood,3184,VIC,440,2200,Biggin Scott St Kilda / Elwood,2,1,1,0,0,0,0,0,0.6,20-39
+4/10 Coonil Street Oakleigh,South,3167,VIC,400,1739,Ray White Oakleigh,2,1,1,0,1,0,1,0,0.3,20-39
+309/101 Bay Street Port,Melbourne,3207,VIC,590,3154,Home AU Real Estate,2,2,1,0,0,0,0,0,0.5,20-39
+1409/551 Swanston Street,Carlton,3053,VIC,380,1900,NPM,1,1,1,0,1,0,1,0,0.8,20-39
+210/445 Royal  Parade,Parkville,3052,VIC,310,1347,Buxton Stonnington,1,1,1,0,0,0,0,0,0.6,20-39
+16/3-5 Alvena  Street,Mentone,3194,VIC,420,2100,Hodges Real Estate Sandringham,2,2,1,1,0,0,0,0,0.8,40-59
+4/126 Albion Street,Brunswick,3056,VIC,450,2405,Jellis Craig - Brunswick,2,1,1,1,0,0,1,0,0.8,20-39
+1201/582 St Kilda  Road Melbourne,3004,3004,VIC,995,5970,Think Property & Co,3,2,1,0,0,0,1,1,nan,20-39
+65/39 Rathdowne Street,Carlton,3053,VIC,700,3742,Jellis Craig - Brunswick,3,1,1,0,0,0,0,0,0.5,20-39
+810/32 Bray Street South,Yarra,3141,VIC,280,1217,Dingle Partners,1,1,1,1,1,0,1,0,0.9,20-39
+4/25 Chadstone Road Malvern,East,3145,VIC,440,1912,Ray White Oakleigh,2,1,1,1,1,0,0,0,0.5,40-59
+310/1228 Nepean  Highway,Cheltenham,3192,VIC,440,2200,Hodges Real Estate Sandringham,2,2,1,1,1,0,1,0,0.4,20-39
+14/30 Lansell Road,Toorak,3142,VIC,795,4770,Marshall White Stonnington,2,2,2,0,0,0,0,0,1.1,60+
+101/59 Stawell Street,Richmond,3121,VIC,450,1955, Jellis Craig & Company Pty Ltd,2,1,1,0,0,0,0,0,0.4,20-39
+M01/10 Station Street Caulfield,North,3161,VIC,500,2172,Ray White Oakleigh,2,1,1,0,1,0,1,0,0.6,20-39
+9/45a Ormond Esplanade,Elwood,3184,VIC,470,2350,Biggin Scott St Kilda / Elwood,2,1,1,1,1,0,0,0,0.5,40-59
+1/1312 Dandenong Road,Hughesdale,3166,VIC,490,2130,Ray White Oakleigh,2,2,1,0,1,0,0,0,0.7,20-39
+7/13A Lewisham Road,Prahran,3181,VIC,410,1782,Buxton Stonnington,2,1,1,0,0,0,0,0,0.3,20-39
+11/118-124 Melville  Road Brunswick,West,3055,VIC,350,1521,Jellis Craig - Brunswick,1,1,1,1,0,0,1,0,0.5,20-39
+D302/460 Victoria  Street,Brunswick,3056,VIC,360,1924,Jellis Craig - Brunswick,1,1,1,1,0,0,1,0,0.1,20-39
+24/233 Canterbury Road St Kilda,West,3182,VIC,320,1390,Biggin Scott St Kilda / Elwood,1,1,1,0,0,0,0,0,0.2,20-39
+413/57 Bay Street Port,Melbourne,3207,VIC,560,2433,Biggin & Scott Port Melbourne,2,1,1,1,1,0,1,1,0.5,20-39
+201/392 St Georges  Road Fitzroy,North,3068,VIC,480,2566,Jellis Craig - Brunswick,2,1,1,0,1,0,0,0,0.2,20-39
+805/83 Queens Road Melbourne,3004,3004,VIC,650,2825,Besser & Co. Estate Agents,2,1,2,0,0,0,0,1,0.5,20-39
+208/445 Royal  Parade,Parkville,3052,VIC,400,2138,Jellis Craig - Brunswick,1,1,1,0,0,0,1,0,0.6,20-39
+14/581 Orrong Road,Armadale,3143,VIC,400,1738,Buxton Stonnington,2,1,1,1,1,0,1,0,0.6,20-39
+8/123 Beaconsfield Parade Albert,Park,3206,VIC,830,5410, Jellis Craig & Company Pty Ltd,2,2,0,0,0,0,0,0,0.6,40-59
+nan,nan,nan,nan,515,3090,Dingle Partners,2,1,0,0,0,0,0,0,0.8,20-39
+2/57 Harold  Street,Thornbury,3071,VIC,390,2085,Jellis Craig - Brunswick,2,1,1,1,1,0,0,0,0.2,20-39
+18/20 Cardigan Street St,Kilda,3182,VIC,320,1390,Biggin Scott St Kilda / Elwood,1,1,1,0,1,0,1,0,1.1,20-39
+4/13 Passfield Street Brunswick,West,3055,VIC,270,1173,Jellis Craig - Brunswick,1,1,0,1,0,0,0,0,0.4,20-39
+nan,nan,nan,nan,550,nan,Peter Blair Property Management,2,1,1,1,1,0,1,0,nan,40-59
+nan,nan,nan,nan,420,2100,Biggin Scott St Kilda / Elwood,2,1,0,0,0,0,0,0,nan,20-39
+1/4-6 Mallawa Street Clayton,South,3169,VIC,360,1564,Ray White Oakleigh,2,1,1,1,0,0,0,0,nan,20-39
+206/58 Latrobe St,Melbourne,3000,VIC,275,1195,Dingle Partners,1,1,0,1,0,0,0,0,0.7,20-39
+714/7 Claremont Street South,Yarra,3141,VIC,380,1651,Buxton Stonnington,1,1,1,0,0,0,0,0,1.5,20-39
+209/436-442 Huntingdale Road Mount,Waverley,3149,VIC,340,1477,Buxton Oakleigh,1,1,1,1,0,0,1,0,0.7,20-39
+2/17 Rosemary Street,Chadstone,3148,VIC,420,1825,Ray White Oakleigh,3,1,1,0,1,0,0,0,0.9,Under 20
+110/19-21 Hanover Street,Oakleigh,3166,VIC,355,1543,Buxton Oakleigh,1,1,1,1,0,0,1,0,0.8,20-39
+1/30 Lillimur  Road,Ormond,3204,VIC,450,1955,Buxton Oakleigh,2,1,1,1,1,0,1,0,0.9,20-39
+1210/3-5 St Kilda Road St,Kilda,3182,VIC,585,2925,Biggin Scott St Kilda / Elwood,2,1,1,0,0,0,1,0,1.1,20-39
+10/11A Milton Street,Elwood,3184,VIC,440,2200,Biggin Scott St Kilda / Elwood,2,1,1,0,0,0,0,0,0.6,20-39
+4/10 Coonil Street Oakleigh,South,3167,VIC,400,1739,Ray White Oakleigh,2,1,1,0,1,0,1,0,0.3,20-39
+309/101 Bay Street Port,Melbourne,3207,VIC,590,3154,Home AU Real Estate,2,2,1,0,0,0,0,0,0.5,20-39
+1704/65 Dudley Street West,Melbourne,3003,VIC,420,nan,Waterdale Property Agent Pty Ltd,2,2,1,0,0,0,0,0,1.5,20-39
+210/445 Royal  Parade,Parkville,3052,VIC,310,1347,Buxton Stonnington,1,1,1,0,0,0,0,0,0.6,20-39
+16/3-5 Alvena  Street,Mentone,3194,VIC,420,2100,Hodges Real Estate Sandringham,2,2,1,1,0,0,0,0,0.8,40-59
+4/126 Albion Street,Brunswick,3056,VIC,450,2405,Jellis Craig - Brunswick,2,1,1,1,0,0,1,0,0.8,20-39
+1201/582 St Kilda  Road Melbourne,3004,3004,VIC,995,5970,Think Property & Co,3,2,1,0,0,0,1,1,nan,20-39
+65/39 Rathdowne Street,Carlton,3053,VIC,700,3742,Jellis Craig - Brunswick,3,1,1,0,0,0,0,0,0.5,20-39
+810/32 Bray Street South,Yarra,3141,VIC,280,1217,Dingle Partners,1,1,1,1,1,0,1,0,0.9,20-39
+4/25 Chadstone Road Malvern,East,3145,VIC,440,1912,Ray White Oakleigh,2,1,1,1,1,0,0,0,0.5,40-59
+310/1228 Nepean  Highway,Cheltenham,3192,VIC,440,2200,Hodges Real Estate Sandringham,2,2,1,1,1,0,1,0,0.4,20-39
+14/30 Lansell Road,Toorak,3142,VIC,795,4770,Marshall White Stonnington,2,2,2,0,0,0,0,0,1.1,60+
+101/59 Stawell Street,Richmond,3121,VIC,450,1955, Jellis Craig & Company Pty Ltd,2,1,1,0,0,0,0,0,0.4,20-39
+M01/10 Station Street Caulfield,North,3161,VIC,500,2172,Ray White Oakleigh,2,1,1,0,1,0,1,0,0.6,20-39
+9/45a Ormond Esplanade,Elwood,3184,VIC,470,2350,Biggin Scott St Kilda / Elwood,2,1,1,1,1,0,0,0,0.5,40-59
+1/1312 Dandenong Road,Hughesdale,3166,VIC,490,2130,Ray White Oakleigh,2,2,1,0,1,0,0,0,0.7,20-39
+7/13A Lewisham Road,Prahran,3181,VIC,410,1782,Buxton Stonnington,2,1,1,0,0,0,0,0,0.3,20-39
+11/118-124 Melville  Road Brunswick,West,3055,VIC,350,1521,Jellis Craig - Brunswick,1,1,1,1,0,0,1,0,0.5,20-39
+D302/460 Victoria  Street,Brunswick,3056,VIC,360,1924,Jellis Craig - Brunswick,1,1,1,1,0,0,1,0,0.1,20-39
+24/233 Canterbury Road St Kilda,West,3182,VIC,320,1390,Biggin Scott St Kilda / Elwood,1,1,1,0,0,0,0,0,0.2,20-39
+413/57 Bay Street Port,Melbourne,3207,VIC,560,2433,Biggin & Scott Port Melbourne,2,1,1,1,1,0,1,1,0.5,20-39
+201/392 St Georges  Road Fitzroy,North,3068,VIC,480,2566,Jellis Craig - Brunswick,2,1,1,0,1,0,0,0,0.2,20-39
+805/83 Queens Road Melbourne,3004,3004,VIC,650,2825,Besser & Co. Estate Agents,2,1,2,0,0,0,0,1,0.5,20-39
+208/445 Royal  Parade,Parkville,3052,VIC,400,2138,Jellis Craig - Brunswick,1,1,1,0,0,0,1,0,0.6,20-39
+14/581 Orrong Road,Armadale,3143,VIC,400,1738,Buxton Stonnington,2,1,1,1,1,0,1,0,0.6,20-39
+8/123 Beaconsfield Parade Albert,Park,3206,VIC,830,5410, Jellis Craig & Company Pty Ltd,2,2,0,0,0,0,0,0,0.6,40-59
+nan,nan,nan,nan,515,3090,Dingle Partners,2,1,0,0,0,0,0,0,0.8,20-39
+2/57 Harold  Street,Thornbury,3071,VIC,390,2085,Jellis Craig - Brunswick,2,1,1,1,1,0,0,0,0.2,20-39
+18/20 Cardigan Street St,Kilda,3182,VIC,320,1390,Biggin Scott St Kilda / Elwood,1,1,1,0,1,0,1,0,1.1,20-39
+4/13 Passfield Street Brunswick,West,3055,VIC,270,1173,Jellis Craig - Brunswick,1,1,0,1,0,0,0,0,0.4,20-39
+nan,nan,nan,nan,550,nan,Peter Blair Property Management,2,1,1,1,1,0,1,0,nan,40-59
+nan,nan,nan,nan,420,2100,Biggin Scott St Kilda / Elwood,2,1,0,0,0,0,0,0,nan,20-39
+1/4-6 Mallawa Street Clayton,South,3169,VIC,360,1564,Ray White Oakleigh,2,1,1,1,0,0,0,0,nan,20-39
+206/58 Latrobe St,Melbourne,3000,VIC,275,1195,Dingle Partners,1,1,0,1,0,0,0,0,0.7,20-39
+714/7 Claremont Street South,Yarra,3141,VIC,380,1651,Buxton Stonnington,1,1,1,0,0,0,0,0,1.5,20-39
+209/436-442 Huntingdale Road Mount,Waverley,3149,VIC,340,1477,Buxton Oakleigh,1,1,1,1,0,0,1,0,0.7,20-39
+2/17 Rosemary Street,Chadstone,3148,VIC,420,1825,Ray White Oakleigh,3,1,1,0,1,0,0,0,0.9,Under 20
+110/19-21 Hanover Street,Oakleigh,3166,VIC,355,1543,Buxton Oakleigh,1,1,1,1,0,0,1,0,0.8,20-39
+1/30 Lillimur  Road,Ormond,3204,VIC,450,1955,Buxton Oakleigh,2,1,1,1,1,0,1,0,0.9,20-39
+1210/3-5 St Kilda Road St,Kilda,3182,VIC,585,2925,Biggin Scott St Kilda / Elwood,2,1,1,0,0,0,1,0,1.1,20-39
+10/11A Milton Street,Elwood,3184,VIC,440,2200,Biggin Scott St Kilda / Elwood,2,1,1,0,0,0,0,0,0.6,20-39
+4/10 Coonil Street Oakleigh,South,3167,VIC,400,1739,Ray White Oakleigh,2,1,1,0,1,0,1,0,0.3,20-39
+309/101 Bay Street Port,Melbourne,3207,VIC,590,3154,Home AU Real Estate,2,2,1,0,0,0,0,0,0.5,20-39
+1815/65 Dudley Street West,Melbourne,3003,VIC,320,nan,Waterdale Property Agent Pty Ltd,1,1,0,0,0,0,0,0,1.5,20-39
+210/445 Royal  Parade,Parkville,3052,VIC,310,1347,Buxton Stonnington,1,1,1,0,0,0,0,0,0.6,20-39
+16/3-5 Alvena  Street,Mentone,3194,VIC,420,2100,Hodges Real Estate Sandringham,2,2,1,1,0,0,0,0,0.8,40-59
+4/126 Albion Street,Brunswick,3056,VIC,450,2405,Jellis Craig - Brunswick,2,1,1,1,0,0,1,0,0.8,20-39
+1201/582 St Kilda  Road Melbourne,3004,3004,VIC,995,5970,Think Property & Co,3,2,1,0,0,0,1,1,nan,20-39
+65/39 Rathdowne Street,Carlton,3053,VIC,700,3742,Jellis Craig - Brunswick,3,1,1,0,0,0,0,0,0.5,20-39
+810/32 Bray Street South,Yarra,3141,VIC,280,1217,Dingle Partners,1,1,1,1,1,0,1,0,0.9,20-39
+4/25 Chadstone Road Malvern,East,3145,VIC,440,1912,Ray White Oakleigh,2,1,1,1,1,0,0,0,0.5,40-59
+310/1228 Nepean  Highway,Cheltenham,3192,VIC,440,2200,Hodges Real Estate Sandringham,2,2,1,1,1,0,1,0,0.4,20-39
+14/30 Lansell Road,Toorak,3142,VIC,795,4770,Marshall White Stonnington,2,2,2,0,0,0,0,0,1.1,60+
+101/59 Stawell Street,Richmond,3121,VIC,450,1955, Jellis Craig & Company Pty Ltd,2,1,1,0,0,0,0,0,0.4,20-39
+M01/10 Station Street Caulfield,North,3161,VIC,500,2172,Ray White Oakleigh,2,1,1,0,1,0,1,0,0.6,20-39
+9/45a Ormond Esplanade,Elwood,3184,VIC,470,2350,Biggin Scott St Kilda / Elwood,2,1,1,1,1,0,0,0,0.5,40-59
+1/1312 Dandenong Road,Hughesdale,3166,VIC,490,2130,Ray White Oakleigh,2,2,1,0,1,0,0,0,0.7,20-39
+7/13A Lewisham Road,Prahran,3181,VIC,410,1782,Buxton Stonnington,2,1,1,0,0,0,0,0,0.3,20-39
+11/118-124 Melville  Road Brunswick,West,3055,VIC,350,1521,Jellis Craig - Brunswick,1,1,1,1,0,0,1,0,0.5,20-39
+D302/460 Victoria  Street,Brunswick,3056,VIC,360,1924,Jellis Craig - Brunswick,1,1,1,1,0,0,1,0,0.1,20-39
+24/233 Canterbury Road St Kilda,West,3182,VIC,320,1390,Biggin Scott St Kilda / Elwood,1,1,1,0,0,0,0,0,0.2,20-39
+413/57 Bay Street Port,Melbourne,3207,VIC,560,2433,Biggin & Scott Port Melbourne,2,1,1,1,1,0,1,1,0.5,20-39
+201/392 St Georges  Road Fitzroy,North,3068,VIC,480,2566,Jellis Craig - Brunswick,2,1,1,0,1,0,0,0,0.2,20-39
+805/83 Queens Road Melbourne,3004,3004,VIC,650,2825,Besser & Co. Estate Agents,2,1,2,0,0,0,0,1,0.5,20-39
+208/445 Royal  Parade,Parkville,3052,VIC,400,2138,Jellis Craig - Brunswick,1,1,1,0,0,0,1,0,0.6,20-39
+14/581 Orrong Road,Armadale,3143,VIC,400,1738,Buxton Stonnington,2,1,1,1,1,0,1,0,0.6,20-39
+8/123 Beaconsfield Parade Albert,Park,3206,VIC,830,5410, Jellis Craig & Company Pty Ltd,2,2,0,0,0,0,0,0,0.6,40-59
+nan,nan,nan,nan,515,3090,Dingle Partners,2,1,0,0,0,0,0,0,0.8,20-39
+2/57 Harold  Street,Thornbury,3071,VIC,390,2085,Jellis Craig - Brunswick,2,1,1,1,1,0,0,0,0.2,20-39
+18/20 Cardigan Street St,Kilda,3182,VIC,320,1390,Biggin Scott St Kilda / Elwood,1,1,1,0,1,0,1,0,1.1,20-39
+4/13 Passfield Street Brunswick,West,3055,VIC,270,1173,Jellis Craig - Brunswick,1,1,0,1,0,0,0,0,0.4,20-39
+nan,nan,nan,nan,550,nan,Peter Blair Property Management,2,1,1,1,1,0,1,0,nan,40-59
+nan,nan,nan,nan,420,2100,Biggin Scott St Kilda / Elwood,2,1,0,0,0,0,0,0,nan,20-39
+1/4-6 Mallawa Street Clayton,South,3169,VIC,360,1564,Ray White Oakleigh,2,1,1,1,0,0,0,0,nan,20-39
+206/58 Latrobe St,Melbourne,3000,VIC,275,1195,Dingle Partners,1,1,0,1,0,0,0,0,0.7,20-39
+714/7 Claremont Street South,Yarra,3141,VIC,380,1651,Buxton Stonnington,1,1,1,0,0,0,0,0,1.5,20-39
+209/436-442 Huntingdale Road Mount,Waverley,3149,VIC,340,1477,Buxton Oakleigh,1,1,1,1,0,0,1,0,0.7,20-39
+2/17 Rosemary Street,Chadstone,3148,VIC,420,1825,Ray White Oakleigh,3,1,1,0,1,0,0,0,0.9,Under 20
+110/19-21 Hanover Street,Oakleigh,3166,VIC,355,1543,Buxton Oakleigh,1,1,1,1,0,0,1,0,0.8,20-39
+1/30 Lillimur  Road,Ormond,3204,VIC,450,1955,Buxton Oakleigh,2,1,1,1,1,0,1,0,0.9,20-39
+1210/3-5 St Kilda Road St,Kilda,3182,VIC,585,2925,Biggin Scott St Kilda / Elwood,2,1,1,0,0,0,1,0,1.1,20-39
+10/11A Milton Street,Elwood,3184,VIC,440,2200,Biggin Scott St Kilda / Elwood,2,1,1,0,0,0,0,0,0.6,20-39
+4/10 Coonil Street Oakleigh,South,3167,VIC,400,1739,Ray White Oakleigh,2,1,1,0,1,0,1,0,0.3,20-39
+309/101 Bay Street Port,Melbourne,3207,VIC,590,3154,Home AU Real Estate,2,2,1,0,0,0,0,0,0.5,20-39
+818/118 FRANKLIN STREET,Melbourne,3000,VIC,250,nan, Elite Real Estate,1,1,0,0,0,0,0,0,1.1,20-39
+210/445 Royal  Parade,Parkville,3052,VIC,310,1347,Buxton Stonnington,1,1,1,0,0,0,0,0,0.6,20-39
+16/3-5 Alvena  Street,Mentone,3194,VIC,420,2100,Hodges Real Estate Sandringham,2,2,1,1,0,0,0,0,0.8,40-59
+4/126 Albion Street,Brunswick,3056,VIC,450,2405,Jellis Craig - Brunswick,2,1,1,1,0,0,1,0,0.8,20-39
+1201/582 St Kilda  Road Melbourne,3004,3004,VIC,995,5970,Think Property & Co,3,2,1,0,0,0,1,1,nan,20-39
+65/39 Rathdowne Street,Carlton,3053,VIC,700,3742,Jellis Craig - Brunswick,3,1,1,0,0,0,0,0,0.5,20-39
+810/32 Bray Street South,Yarra,3141,VIC,280,1217,Dingle Partners,1,1,1,1,1,0,1,0,0.9,20-39
+4/25 Chadstone Road Malvern,East,3145,VIC,440,1912,Ray White Oakleigh,2,1,1,1,1,0,0,0,0.5,40-59
+310/1228 Nepean  Highway,Cheltenham,3192,VIC,440,2200,Hodges Real Estate Sandringham,2,2,1,1,1,0,1,0,0.4,20-39
+14/30 Lansell Road,Toorak,3142,VIC,795,4770,Marshall White Stonnington,2,2,2,0,0,0,0,0,1.1,60+
+101/59 Stawell Street,Richmond,3121,VIC,450,1955, Jellis Craig & Company Pty Ltd,2,1,1,0,0,0,0,0,0.4,20-39
+M01/10 Station Street Caulfield,North,3161,VIC,500,2172,Ray White Oakleigh,2,1,1,0,1,0,1,0,0.6,20-39
+9/45a Ormond Esplanade,Elwood,3184,VIC,470,2350,Biggin Scott St Kilda / Elwood,2,1,1,1,1,0,0,0,0.5,40-59
+1/1312 Dandenong Road,Hughesdale,3166,VIC,490,2130,Ray White Oakleigh,2,2,1,0,1,0,0,0,0.7,20-39
+7/13A Lewisham Road,Prahran,3181,VIC,410,1782,Buxton Stonnington,2,1,1,0,0,0,0,0,0.3,20-39
+11/118-124 Melville  Road Brunswick,West,3055,VIC,350,1521,Jellis Craig - Brunswick,1,1,1,1,0,0,1,0,0.5,20-39
+D302/460 Victoria  Street,Brunswick,3056,VIC,360,1924,Jellis Craig - Brunswick,1,1,1,1,0,0,1,0,0.1,20-39
+24/233 Canterbury Road St Kilda,West,3182,VIC,320,1390,Biggin Scott St Kilda / Elwood,1,1,1,0,0,0,0,0,0.2,20-39
+413/57 Bay Street Port,Melbourne,3207,VIC,560,2433,Biggin & Scott Port Melbourne,2,1,1,1,1,0,1,1,0.5,20-39
+201/392 St Georges  Road Fitzroy,North,3068,VIC,480,2566,Jellis Craig - Brunswick,2,1,1,0,1,0,0,0,0.2,20-39
+805/83 Queens Road Melbourne,3004,3004,VIC,650,2825,Besser & Co. Estate Agents,2,1,2,0,0,0,0,1,0.5,20-39
+208/445 Royal  Parade,Parkville,3052,VIC,400,2138,Jellis Craig - Brunswick,1,1,1,0,0,0,1,0,0.6,20-39
+14/581 Orrong Road,Armadale,3143,VIC,400,1738,Buxton Stonnington,2,1,1,1,1,0,1,0,0.6,20-39
+8/123 Beaconsfield Parade Albert,Park,3206,VIC,830,5410, Jellis Craig & Company Pty Ltd,2,2,0,0,0,0,0,0,0.6,40-59
+nan,nan,nan,nan,515,3090,Dingle Partners,2,1,0,0,0,0,0,0,0.8,20-39
+2/57 Harold  Street,Thornbury,3071,VIC,390,2085,Jellis Craig - Brunswick,2,1,1,1,1,0,0,0,0.2,20-39
+18/20 Cardigan Street St,Kilda,3182,VIC,320,1390,Biggin Scott St Kilda / Elwood,1,1,1,0,1,0,1,0,1.1,20-39
+4/13 Passfield Street Brunswick,West,3055,VIC,270,1173,Jellis Craig - Brunswick,1,1,0,1,0,0,0,0,0.4,20-39
+nan,nan,nan,nan,550,nan,Peter Blair Property Management,2,1,1,1,1,0,1,0,nan,40-59
+nan,nan,nan,nan,420,2100,Biggin Scott St Kilda / Elwood,2,1,0,0,0,0,0,0,nan,20-39
+1/4-6 Mallawa Street Clayton,South,3169,VIC,360,1564,Ray White Oakleigh,2,1,1,1,0,0,0,0,nan,20-39
+206/58 Latrobe St,Melbourne,3000,VIC,275,1195,Dingle Partners,1,1,0,1,0,0,0,0,0.7,20-39
+714/7 Claremont Street South,Yarra,3141,VIC,380,1651,Buxton Stonnington,1,1,1,0,0,0,0,0,1.5,20-39
+209/436-442 Huntingdale Road Mount,Waverley,3149,VIC,340,1477,Buxton Oakleigh,1,1,1,1,0,0,1,0,0.7,20-39
+2/17 Rosemary Street,Chadstone,3148,VIC,420,1825,Ray White Oakleigh,3,1,1,0,1,0,0,0,0.9,Under 20
+110/19-21 Hanover Street,Oakleigh,3166,VIC,355,1543,Buxton Oakleigh,1,1,1,1,0,0,1,0,0.8,20-39
+1/30 Lillimur  Road,Ormond,3204,VIC,450,1955,Buxton Oakleigh,2,1,1,1,1,0,1,0,0.9,20-39
+1210/3-5 St Kilda Road St,Kilda,3182,VIC,585,2925,Biggin Scott St Kilda / Elwood,2,1,1,0,0,0,1,0,1.1,20-39
+10/11A Milton Street,Elwood,3184,VIC,440,2200,Biggin Scott St Kilda / Elwood,2,1,1,0,0,0,0,0,0.6,20-39
+4/10 Coonil Street Oakleigh,South,3167,VIC,400,1739,Ray White Oakleigh,2,1,1,0,1,0,1,0,0.3,20-39
+309/101 Bay Street Port,Melbourne,3207,VIC,590,3154,Home AU Real Estate,2,2,1,0,0,0,0,0,0.5,20-39
+15/99 Verdon Street,Williamstown,3016,VIC,400,1738,Sweeney Estate Agents Williamstown,2,1,1,1,1,0,0,0,0.3,40-59
+210/445 Royal  Parade,Parkville,3052,VIC,310,1347,Buxton Stonnington,1,1,1,0,0,0,0,0,0.6,20-39
+16/3-5 Alvena  Street,Mentone,3194,VIC,420,2100,Hodges Real Estate Sandringham,2,2,1,1,0,0,0,0,0.8,40-59
+4/126 Albion Street,Brunswick,3056,VIC,450,2405,Jellis Craig - Brunswick,2,1,1,1,0,0,1,0,0.8,20-39
+1201/582 St Kilda  Road Melbourne,3004,3004,VIC,995,5970,Think Property & Co,3,2,1,0,0,0,1,1,nan,20-39
+65/39 Rathdowne Street,Carlton,3053,VIC,700,3742,Jellis Craig - Brunswick,3,1,1,0,0,0,0,0,0.5,20-39
+810/32 Bray Street South,Yarra,3141,VIC,280,1217,Dingle Partners,1,1,1,1,1,0,1,0,0.9,20-39
+4/25 Chadstone Road Malvern,East,3145,VIC,440,1912,Ray White Oakleigh,2,1,1,1,1,0,0,0,0.5,40-59
+310/1228 Nepean  Highway,Cheltenham,3192,VIC,440,2200,Hodges Real Estate Sandringham,2,2,1,1,1,0,1,0,0.4,20-39
+14/30 Lansell Road,Toorak,3142,VIC,795,4770,Marshall White Stonnington,2,2,2,0,0,0,0,0,1.1,60+
+101/59 Stawell Street,Richmond,3121,VIC,450,1955, Jellis Craig & Company Pty Ltd,2,1,1,0,0,0,0,0,0.4,20-39
+M01/10 Station Street Caulfield,North,3161,VIC,500,2172,Ray White Oakleigh,2,1,1,0,1,0,1,0,0.6,20-39
+9/45a Ormond Esplanade,Elwood,3184,VIC,470,2350,Biggin Scott St Kilda / Elwood,2,1,1,1,1,0,0,0,0.5,40-59
+1/1312 Dandenong Road,Hughesdale,3166,VIC,490,2130,Ray White Oakleigh,2,2,1,0,1,0,0,0,0.7,20-39
+7/13A Lewisham Road,Prahran,3181,VIC,410,1782,Buxton Stonnington,2,1,1,0,0,0,0,0,0.3,20-39
+11/118-124 Melville  Road Brunswick,West,3055,VIC,350,1521,Jellis Craig - Brunswick,1,1,1,1,0,0,1,0,0.5,20-39
+D302/460 Victoria  Street,Brunswick,3056,VIC,360,1924,Jellis Craig - Brunswick,1,1,1,1,0,0,1,0,0.1,20-39
+24/233 Canterbury Road St Kilda,West,3182,VIC,320,1390,Biggin Scott St Kilda / Elwood,1,1,1,0,0,0,0,0,0.2,20-39
+413/57 Bay Street Port,Melbourne,3207,VIC,560,2433,Biggin & Scott Port Melbourne,2,1,1,1,1,0,1,1,0.5,20-39
+201/392 St Georges  Road Fitzroy,North,3068,VIC,480,2566,Jellis Craig - Brunswick,2,1,1,0,1,0,0,0,0.2,20-39
+805/83 Queens Road Melbourne,3004,3004,VIC,650,2825,Besser & Co. Estate Agents,2,1,2,0,0,0,0,1,0.5,20-39
+208/445 Royal  Parade,Parkville,3052,VIC,400,2138,Jellis Craig - Brunswick,1,1,1,0,0,0,1,0,0.6,20-39
+14/581 Orrong Road,Armadale,3143,VIC,400,1738,Buxton Stonnington,2,1,1,1,1,0,1,0,0.6,20-39
+8/123 Beaconsfield Parade Albert,Park,3206,VIC,830,5410, Jellis Craig & Company Pty Ltd,2,2,0,0,0,0,0,0,0.6,40-59
+nan,nan,nan,nan,515,3090,Dingle Partners,2,1,0,0,0,0,0,0,0.8,20-39
+2/57 Harold  Street,Thornbury,3071,VIC,390,2085,Jellis Craig - Brunswick,2,1,1,1,1,0,0,0,0.2,20-39
+18/20 Cardigan Street St,Kilda,3182,VIC,320,1390,Biggin Scott St Kilda / Elwood,1,1,1,0,1,0,1,0,1.1,20-39
+4/13 Passfield Street Brunswick,West,3055,VIC,270,1173,Jellis Craig - Brunswick,1,1,0,1,0,0,0,0,0.4,20-39
+nan,nan,nan,nan,550,nan,Peter Blair Property Management,2,1,1,1,1,0,1,0,nan,40-59
+nan,nan,nan,nan,420,2100,Biggin Scott St Kilda / Elwood,2,1,0,0,0,0,0,0,nan,20-39
+1/4-6 Mallawa Street Clayton,South,3169,VIC,360,1564,Ray White Oakleigh,2,1,1,1,0,0,0,0,nan,20-39
+206/58 Latrobe St,Melbourne,3000,VIC,275,1195,Dingle Partners,1,1,0,1,0,0,0,0,0.7,20-39
+714/7 Claremont Street South,Yarra,3141,VIC,380,1651,Buxton Stonnington,1,1,1,0,0,0,0,0,1.5,20-39
+209/436-442 Huntingdale Road Mount,Waverley,3149,VIC,340,1477,Buxton Oakleigh,1,1,1,1,0,0,1,0,0.7,20-39
+2/17 Rosemary Street,Chadstone,3148,VIC,420,1825,Ray White Oakleigh,3,1,1,0,1,0,0,0,0.9,Under 20
+110/19-21 Hanover Street,Oakleigh,3166,VIC,355,1543,Buxton Oakleigh,1,1,1,1,0,0,1,0,0.8,20-39
+1/30 Lillimur  Road,Ormond,3204,VIC,450,1955,Buxton Oakleigh,2,1,1,1,1,0,1,0,0.9,20-39
+1210/3-5 St Kilda Road St,Kilda,3182,VIC,585,2925,Biggin Scott St Kilda / Elwood,2,1,1,0,0,0,1,0,1.1,20-39
+10/11A Milton Street,Elwood,3184,VIC,440,2200,Biggin Scott St Kilda / Elwood,2,1,1,0,0,0,0,0,0.6,20-39
+4/10 Coonil Street Oakleigh,South,3167,VIC,400,1739,Ray White Oakleigh,2,1,1,0,1,0,1,0,0.3,20-39
+309/101 Bay Street Port,Melbourne,3207,VIC,590,3154,Home AU Real Estate,2,2,1,0,0,0,0,0,0.5,20-39
+74/1 Graham Street Port,Melbourne,3207,VIC,480,2880,Biggin & Scott Port Melbourne,1,1,1,0,0,0,1,1,0.3,40-59
+210/445 Royal  Parade,Parkville,3052,VIC,310,1347,Buxton Stonnington,1,1,1,0,0,0,0,0,0.6,20-39
+16/3-5 Alvena  Street,Mentone,3194,VIC,420,2100,Hodges Real Estate Sandringham,2,2,1,1,0,0,0,0,0.8,40-59
+4/126 Albion Street,Brunswick,3056,VIC,450,2405,Jellis Craig - Brunswick,2,1,1,1,0,0,1,0,0.8,20-39
+1201/582 St Kilda  Road Melbourne,3004,3004,VIC,995,5970,Think Property & Co,3,2,1,0,0,0,1,1,nan,20-39
+65/39 Rathdowne Street,Carlton,3053,VIC,700,3742,Jellis Craig - Brunswick,3,1,1,0,0,0,0,0,0.5,20-39
+810/32 Bray Street South,Yarra,3141,VIC,280,1217,Dingle Partners,1,1,1,1,1,0,1,0,0.9,20-39
+4/25 Chadstone Road Malvern,East,3145,VIC,440,1912,Ray White Oakleigh,2,1,1,1,1,0,0,0,0.5,40-59
+310/1228 Nepean  Highway,Cheltenham,3192,VIC,440,2200,Hodges Real Estate Sandringham,2,2,1,1,1,0,1,0,0.4,20-39
+14/30 Lansell Road,Toorak,3142,VIC,795,4770,Marshall White Stonnington,2,2,2,0,0,0,0,0,1.1,60+
+101/59 Stawell Street,Richmond,3121,VIC,450,1955, Jellis Craig & Company Pty Ltd,2,1,1,0,0,0,0,0,0.4,20-39
+M01/10 Station Street Caulfield,North,3161,VIC,500,2172,Ray White Oakleigh,2,1,1,0,1,0,1,0,0.6,20-39
+9/45a Ormond Esplanade,Elwood,3184,VIC,470,2350,Biggin Scott St Kilda / Elwood,2,1,1,1,1,0,0,0,0.5,40-59
+1/1312 Dandenong Road,Hughesdale,3166,VIC,490,2130,Ray White Oakleigh,2,2,1,0,1,0,0,0,0.7,20-39
+7/13A Lewisham Road,Prahran,3181,VIC,410,1782,Buxton Stonnington,2,1,1,0,0,0,0,0,0.3,20-39
+11/118-124 Melville  Road Brunswick,West,3055,VIC,350,1521,Jellis Craig - Brunswick,1,1,1,1,0,0,1,0,0.5,20-39
+D302/460 Victoria  Street,Brunswick,3056,VIC,360,1924,Jellis Craig - Brunswick,1,1,1,1,0,0,1,0,0.1,20-39
+24/233 Canterbury Road St Kilda,West,3182,VIC,320,1390,Biggin Scott St Kilda / Elwood,1,1,1,0,0,0,0,0,0.2,20-39
+413/57 Bay Street Port,Melbourne,3207,VIC,560,2433,Biggin & Scott Port Melbourne,2,1,1,1,1,0,1,1,0.5,20-39
+201/392 St Georges  Road Fitzroy,North,3068,VIC,480,2566,Jellis Craig - Brunswick,2,1,1,0,1,0,0,0,0.2,20-39
+805/83 Queens Road Melbourne,3004,3004,VIC,650,2825,Besser & Co. Estate Agents,2,1,2,0,0,0,0,1,0.5,20-39
+208/445 Royal  Parade,Parkville,3052,VIC,400,2138,Jellis Craig - Brunswick,1,1,1,0,0,0,1,0,0.6,20-39
+14/581 Orrong Road,Armadale,3143,VIC,400,1738,Buxton Stonnington,2,1,1,1,1,0,1,0,0.6,20-39
+8/123 Beaconsfield Parade Albert,Park,3206,VIC,830,5410, Jellis Craig & Company Pty Ltd,2,2,0,0,0,0,0,0,0.6,40-59
+nan,nan,nan,nan,515,3090,Dingle Partners,2,1,0,0,0,0,0,0,0.8,20-39
+2/57 Harold  Street,Thornbury,3071,VIC,390,2085,Jellis Craig - Brunswick,2,1,1,1,1,0,0,0,0.2,20-39
+18/20 Cardigan Street St,Kilda,3182,VIC,320,1390,Biggin Scott St Kilda / Elwood,1,1,1,0,1,0,1,0,1.1,20-39
+4/13 Passfield Street Brunswick,West,3055,VIC,270,1173,Jellis Craig - Brunswick,1,1,0,1,0,0,0,0,0.4,20-39
+nan,nan,nan,nan,550,nan,Peter Blair Property Management,2,1,1,1,1,0,1,0,nan,40-59
+nan,nan,nan,nan,420,2100,Biggin Scott St Kilda / Elwood,2,1,0,0,0,0,0,0,nan,20-39
+1/4-6 Mallawa Street Clayton,South,3169,VIC,360,1564,Ray White Oakleigh,2,1,1,1,0,0,0,0,nan,20-39
+206/58 Latrobe St,Melbourne,3000,VIC,275,1195,Dingle Partners,1,1,0,1,0,0,0,0,0.7,20-39
+714/7 Claremont Street South,Yarra,3141,VIC,380,1651,Buxton Stonnington,1,1,1,0,0,0,0,0,1.5,20-39
+209/436-442 Huntingdale Road Mount,Waverley,3149,VIC,340,1477,Buxton Oakleigh,1,1,1,1,0,0,1,0,0.7,20-39
+2/17 Rosemary Street,Chadstone,3148,VIC,420,1825,Ray White Oakleigh,3,1,1,0,1,0,0,0,0.9,Under 20
+110/19-21 Hanover Street,Oakleigh,3166,VIC,355,1543,Buxton Oakleigh,1,1,1,1,0,0,1,0,0.8,20-39
+1/30 Lillimur  Road,Ormond,3204,VIC,450,1955,Buxton Oakleigh,2,1,1,1,1,0,1,0,0.9,20-39
+1210/3-5 St Kilda Road St,Kilda,3182,VIC,585,2925,Biggin Scott St Kilda / Elwood,2,1,1,0,0,0,1,0,1.1,20-39
+10/11A Milton Street,Elwood,3184,VIC,440,2200,Biggin Scott St Kilda / Elwood,2,1,1,0,0,0,0,0,0.6,20-39
+4/10 Coonil Street Oakleigh,South,3167,VIC,400,1739,Ray White Oakleigh,2,1,1,0,1,0,1,0,0.3,20-39
+309/101 Bay Street Port,Melbourne,3207,VIC,590,3154,Home AU Real Estate,2,2,1,0,0,0,0,0,0.5,20-39
+2920/551 Swanston Street,Carlton,3053,VIC,500,2500,NPM,2,1,0,0,0,0,0,0,0.8,20-39
+210/445 Royal  Parade,Parkville,3052,VIC,310,1347,Buxton Stonnington,1,1,1,0,0,0,0,0,0.6,20-39
+16/3-5 Alvena  Street,Mentone,3194,VIC,420,2100,Hodges Real Estate Sandringham,2,2,1,1,0,0,0,0,0.8,40-59
+4/126 Albion Street,Brunswick,3056,VIC,450,2405,Jellis Craig - Brunswick,2,1,1,1,0,0,1,0,0.8,20-39
+1201/582 St Kilda  Road Melbourne,3004,3004,VIC,995,5970,Think Property & Co,3,2,1,0,0,0,1,1,nan,20-39
+65/39 Rathdowne Street,Carlton,3053,VIC,700,3742,Jellis Craig - Brunswick,3,1,1,0,0,0,0,0,0.5,20-39
+810/32 Bray Street South,Yarra,3141,VIC,280,1217,Dingle Partners,1,1,1,1,1,0,1,0,0.9,20-39
+4/25 Chadstone Road Malvern,East,3145,VIC,440,1912,Ray White Oakleigh,2,1,1,1,1,0,0,0,0.5,40-59
+310/1228 Nepean  Highway,Cheltenham,3192,VIC,440,2200,Hodges Real Estate Sandringham,2,2,1,1,1,0,1,0,0.4,20-39
+14/30 Lansell Road,Toorak,3142,VIC,795,4770,Marshall White Stonnington,2,2,2,0,0,0,0,0,1.1,60+
+101/59 Stawell Street,Richmond,3121,VIC,450,1955, Jellis Craig & Company Pty Ltd,2,1,1,0,0,0,0,0,0.4,20-39
+M01/10 Station Street Caulfield,North,3161,VIC,500,2172,Ray White Oakleigh,2,1,1,0,1,0,1,0,0.6,20-39
+9/45a Ormond Esplanade,Elwood,3184,VIC,470,2350,Biggin Scott St Kilda / Elwood,2,1,1,1,1,0,0,0,0.5,40-59
+1/1312 Dandenong Road,Hughesdale,3166,VIC,490,2130,Ray White Oakleigh,2,2,1,0,1,0,0,0,0.7,20-39
+7/13A Lewisham Road,Prahran,3181,VIC,410,1782,Buxton Stonnington,2,1,1,0,0,0,0,0,0.3,20-39
+11/118-124 Melville  Road Brunswick,West,3055,VIC,350,1521,Jellis Craig - Brunswick,1,1,1,1,0,0,1,0,0.5,20-39
+D302/460 Victoria  Street,Brunswick,3056,VIC,360,1924,Jellis Craig - Brunswick,1,1,1,1,0,0,1,0,0.1,20-39

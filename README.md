@@ -30,5 +30,5 @@ This is the code for the regression model. I chose to do a linear regression fir
 
 
 ## Recreating
-First of all, I do not suggest you run *DataScraping.py*, because it will take hours to days to actually finish domain's apartment collection. Use the given file instead. But if you want, you can just run it directly. The other 3 codes are fine, you can run it directly.
+First of all, I do not recommend you run *DataScraping.py*, because it will take hours to days to actually finish domain's apartment collection. Use the given file instead. But if you want, you can just run it directly. The other 3 codes are fine, you can run it directly.
 

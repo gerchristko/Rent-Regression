@@ -14,7 +14,6 @@ influential <- influential[!is.na(influential)]
 new_df <- df[-influential,]
 nmodel <- lm(Rent ~ ., data = new_df)
 nsmodel <- stepAIC(nmodel, direction = "both", trace = FALSE)
-plot(nsmodel, which = 4)
 
 write.csv(new_df,"Apartments_o.csv", row.names = TRUE)
 (final.model <- summary(nsmodel))
